@@ -1,0 +1,264 @@
+[
+        {
+                "ResultType": [
+                        null,
+                        null,
+                        null,
+                        null
+                ],
+                "ResultMessage": [
+                        null,
+                        null,
+                        null,
+                        null
+                ],
+                "CourseId": [
+                        3878,
+                        3878,
+                        3878,
+                        3878
+                ],
+                "Code": [
+                        "CSC124",
+                        "CSC124",
+                        "CSC124",
+                        "CSC124"
+                ],
+                "Name": [
+                        "Structural Programming",
+                        "Structural Programming",
+                        "Structural Programming",
+                        "Structural Programming"
+                ],
+                "Quiz_Id": [
+                        10040,
+                        10040,
+                        10040,
+                        10040
+                ],
+                "QuizName": [
+                        "quiz 1",
+                        "quiz 1",
+                        "quiz 1",
+                        "quiz 1"
+                ],
+                "StartDate": [
+                        "Mar 5, 2023 at 09:00:01 PM",
+                        "Mar 5, 2023 at 09:00:01 PM",
+                        "Mar 5, 2023 at 09:00:01 PM",
+                        "Mar 5, 2023 at 09:00:01 PM"
+                ],
+                "EndDate": [
+                        "Mar 5, 2023 at 09:10:01 PM",
+                        "Mar 5, 2023 at 09:10:01 PM",
+                        "Mar 5, 2023 at 09:10:01 PM",
+                        "Mar 5, 2023 at 09:10:01 PM"
+                ],
+                "State": [
+                        "Finished",
+                        "Finished",
+                        "Finished",
+                        "Finished"
+                ],
+                "TakenTime": [
+                        "00:10:00",
+                        "00:10:00",
+                        "00:10:00",
+                        "00:10:00"
+                ],
+                "TimeLimit": [
+                        10,
+                        10,
+                        10,
+                        10
+                ],
+                "TimeType": [
+                        "Minutes",
+                        "Minutes",
+                        "Minutes",
+                        "Minutes"
+                ],
+                "Grade": [
+                        10,
+                        10,
+                        10,
+                        10
+                ],
+                "MaxGrade": [
+                        10,
+                        10,
+                        10,
+                        10
+                ],
+                "Percentage": [
+                        100,
+                        100,
+                        100,
+                        100
+                ],
+                "IsPassed": [
+                        1,
+                        1,
+                        1,
+                        1
+                ],
+                "QuestionId": [
+                        219745,
+                        219745,
+                        219745,
+                        219745
+                ],
+                "QuestionNumber": [
+                        2,
+                        2,
+                        2,
+                        2
+                ],
+                "QuestionText": [
+                        "",
+                        "",
+                        "",
+                        ""
+                ],
+                "GeneralFeedback": [
+                        "",
+                        "",
+                        "",
+                        ""
+                ],
+                "AnswerTypeId_fk": [
+                        1,
+                        1,
+                        1,
+                        1
+                ],
+                "NumberingTypeId_fk": [
+                        2,
+                        2,
+                        2,
+                        2
+                ],
+                "SelectedOptions": [
+                        "776499",
+                        "776499",
+                        "776499",
+                        "776499"
+                ],
+                "CorrectionVisibility": [
+                        true,
+                        true,
+                        true,
+                        true
+                ],
+                "StudnetQuestionGrade": [
+                        1,
+                        1,
+                        1,
+                        1
+                ],
+                "DefaultQuestionGrade": [
+                        1,
+                        1,
+                        1,
+                        1
+                ],
+                "Data": [
+                        {
+                                "OptionId": 776496,
+                                "OptionText": "",
+                                "OptionFeedback": "",
+                                "OptionGrade": 0
+                        },
+                        {
+                                "OptionId": 776497,
+                                "OptionText": "",
+                                "OptionFeedback": "",
+                                "OptionGrade": 0
+                        },
+                        {
+                                "OptionId": 776498,
+                                "OptionText": "",
+                                "OptionFeedback": "",
+                                "OptionGrade": 0
+                        },
+                        {
+                                "OptionId": 776499,
+                                "OptionText": "",
+                                "OptionFeedback": "",
+                                "OptionGrade": 100
+                        }
+                ],
+                "QuestionTypeId": [
+                        1,
+                        1,
+                        1,
+                        1
+                ],
+                "Text": [
+                        null,
+                        null,
+                        null,
+                        null
+                ],
+                "FileName": [
+                        null,
+                        null,
+                        null,
+                        null
+                ],
+                "FilePath": [
+                        "",
+                        "",
+                        "",
+                        ""
+                ],
+                "FileSize": [
+                        "--",
+                        "--",
+                        "--",
+                        "--"
+                ],
+                "TextRequired": [
+                        null,
+                        null,
+                        null,
+                        null
+                ],
+                "FileRequired": [
+                        null,
+                        null,
+                        null,
+                        null
+                ],
+                "StudentAnswerId": [
+                        10789267,
+                        10789267,
+                        10789267,
+                        10789267
+                ],
+                "ShortText": [
+                        null,
+                        null,
+                        null,
+                        null
+                ],
+                "DataMatching": [
+                        {
+                                "MatchingQuestionId": null,
+                                "MatchingQuestionName": null
+                        }
+                ],
+                "DataMatchingOptions": [
+                        {
+                                "CorrectId": null,
+                                "CorrectMatching": null
+                        }
+                ],
+                "MatchAnswerArr": [
+                        {
+                                "MatchAnswerQuesId": null,
+                                "MatchAnswerQuesOptionId": null,
+                                "AnsGrade": null
+                        }
+                ]
+        }
