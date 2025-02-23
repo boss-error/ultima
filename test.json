@@ -1,0 +1,1676 @@
+{
+    "recommendations": [
+        {
+            "Rating": 5.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkyw-rUznfZXmDBejkwY3XjTT57rWf-OYuZ-rzZRqFmyVM3OcD-fw4ZDS1N8wtpJE3_DlP2mmQR6CAvxtaLF7JpTHEdW5M03ljQSFv2EsQEKnT6eupQhaP_Jpurd7u662YhBpBErCByi7vaOmS-OdUgabn41X_zw4DU9ni7gAHgZ58U&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Fish Restaurant Alexandria Coast",
+            "review_count": 2.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 5.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnvAhn4F6OGZ9w5XdSiDhdK-Oi5KAEFzVxPE3ci1CfiuDjxG41NmH7GnwL-C_cw1hXVAvcCewjmtDL13lLXzJkSHKiRgd_UiQfs1KMA1uAp2KL_tydeomdEv79kOjhIteTRhM8v7JnpBlFX1zyZT3vsSMAXnvfEAkbQLFEYjHlugz6L&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Nawara Fish Restaurant",
+            "review_count": 1.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 5.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbky_NdqqALUdWqpQM2PWUW64KyxpYlODsjL3OH6YQdyKnFrD-bRSKKUD4ShEyRvWLmvf5wMovY-m5wGQmPYtO0Ew6OhNzAFviPs8pYEqmD903jeoXxEOb2N1jbi2WiuHMdZ6xL8cjiKGsASGhvsU-AKQtUfmdrGPJvDC0b7XtVzAHU&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "معرض الدفه - Aldaffah Store",
+            "review_count": 1.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 4.5,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbktGNBEdG35VrrmVCYL1xTMnUqb2tXTs1hxZMnqzA-W1RUL8_HHWUfiGAjGIo3gMw3D3qM4-MLEUsC6JzBto-PVkVV1-loyZ__H3r2B4TuFTe3Ow0NbsD31MhTHb98unr_4f4S8X9dZTwi16GnDy7QLjqJEA73KeX6YyUqB5khSTcAe&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "qoot albahar",
+            "review_count": 2.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 4.5,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmnPYRoCnBOxYk8zYVXJQ3tfN4_pC83JbGTSGGDH2xWo4k_9_dM-EeVFjzg6eSUbiHeQAliDXRbQxnbhUPyi-W2i3IvPXX2MV75dvU99mTw0yWGr6ahofIiLDQ973CyFaqTeZ_WS8VPmc9ZqHt9rnbQ1RSv28UXoEj8je0SrRXMkDCt&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Fish Lounge / فيش لاونج",
+            "review_count": 2.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 4.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkEGtQeES6WNYsXzwNvJu1teVdlewQEagrw26UgDm58bUlSUZXum3vSfe4O6YHJFnbYAWEgkDbK__cAHcfdJfD9iiezeAkdeOGHQYPYyJePeXiVORpX5NYKxYB2krAAbKvrHrpH-aq363t2pHMLyIowzSBurrsVUfop5sBI7tXf_Zff&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Sexy Fish",
+            "review_count": 1.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 4.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmozXXVZoajG-koFl08-WfyHGBo8OaR5RH9ouwRAE7bnoGjxQcc5ZtYPvlRoueVj7bqOJ5-JL859WrvvtbCJN2QN73UwjqWPq25_-NyBwLqa2lhEkrkh7YX0ysXI0LEvmIYYV7NBcHXTC3bWRt7aT5tK7MBlHOfr_gvH17Z_EpKWxe_&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "افضل سمك وبطاطا Fish and Chips",
+            "review_count": 1.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 3.75,
+            "category": "shopping",
+            "imageUrl": "images/Shopping.png",
+            "place_name": "Granada mall",
+            "review_count": 4.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblSBLaCPwu_P8GI6drlfWopzZ3UReqJGk4w0zBJfyQeni37N4VdftRT6dydnQ7lOfKki1X2lBC2FJbQc9lCvADMHgnAbqh-Gy5CBaPOGjaz-JxBJKFPpAZwEGL9Fl3ngdDXcMGWUPHmbT6aBPXCYgawRoXk-CH-FgeeWvsIxBJPSCA&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Sports shop",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmH9XsocZ6CYmCLCinDjsBEzxGIvIgjRY-gam-LWegBjGBlaFXy_3MBVk9zjBRyVxMLBh8MWvfP33C903B6KaIS_LswsNIqcSYaguyPs7umOSelVTQG1tRH5SEQ4Ynsa9nL44wgpw0f39eNn513268sm2udMORcqmYpMV-vCzn9dHyi&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Fisherman Beach Seafood Restaurant",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnHiYdhDhRe1LB5ELYJHU75PDnvRRQeblrdrh0PfPImZVMpUtKd625bLcG20N_PA6RCxqUSF3dDksZwyQcY9O8N0U_yV5GzxyfvgVRj7Bex2-qdCNyQD466zr0nkFXPX69Y-pZgqgZIgExiW2DcUho877mt4dIAy2APaNth4ZMRvZYk&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Next",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblFOlSc7pEijZkvED_vir3wl555XCP90E35j8bw0VHjCZQBmBK_sC-hnzEMm7_9tDdAdqUCkRv2BxrzFrNmPySqWBCM8Jq_nThrfJaQHK4O99D2gKpylEbndoAyq_EWwZ_b3b_m5Ei9M7UXghUrdrOd4UQbFtfUAdilpHi1Hf8tfUkh&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Golden Salamon Restaurant",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmfRHbB6Wo8YhEbrjHsSeEcTlHsShIOvhXoPy5j4-qg9IbS-24_TUbd8LUI9pVun0QnE_CecRMygD_uYRYzzzpqkF_pqRlvhOmLTHAsSyWILVwpb2dzYvxTuHADYdqHv3oD6A88xi7HYRiz0bhbjzl5UaBZ2JItfkI8GSc-Wf3N2U3t&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Fresh fish restaurant مطعم فرش فش للمأكولات البحرية",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblssSyveXJgiz3YvEZRN153YhLYmEOs7VCa-Sz4Or0T0U0pqv9rkoS-Ao2jYezEZSEeJXiueLLa-_wKql93thGIdyPfWaw3DrxhfQJCfJjyRDK1HMEwpWr8TQeGnj3li_SCT3QXstLKxz-k7POYZGqBTQcn6JKGAPwdlw8hjiZEp4M3&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Be fashion",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmtMwSE6HyRHolq9EsgLLI-nz6vVGYYb35UCVZVOnaWW5Mhx1R4zvUIFKDdlQdXPc4G5GRQdhe0ZumgcoArbO44QQ2yrRCwUmYUS5Vm74nm8RTAtLdCp4m4gvrX4RYumFeKEw9EzuScO5Q6YnTxrmfo7L74Q25JLzpP09oo8P7wHGCn&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Fish Face",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkx_xtIwWipK46KFMmUaEhWxujhzoPJ9w8XrOq0NMh-jY-1jo-81tl77kaqbfPxBUVlnqQWUrr0H4MuTIdD3ExbBxa0yHQSDw5SaJ2L0HQBchn-ah60MelGiH5PXIPsqr_Y8koeDaApwdmwQkyZ2pK6SevlR-HGPFmTplGfMPtlom7Y&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "مطعم ميدار للأكلات البحرية الخليجية",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmAPmjuhalp_Oo_BXzNJQeVWg-159Wqs1UrzavzkLj1gMyhy3cVu0hryGmeTKdSUu4lebJPldD0bacDiE6TZ91RjAEfiyNhRCbY_PBnvZNJMhrmUAxurKisKNc34z-wRU06OejigeGLg86YLoTfjzPTxtmvwk5TpDZuWDIMbOD1mTwV&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "shrimp moustache",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbns2CqRA06UGpLE4pLWlvSKgk_UMlr4enoQhLLc5rosM84jdl1jWgxaK-MtF5tjqqUEO2DM1KW_cXwrRckxSPxqy_Ql4W6sJt5_AkzgwHu82emYl63LqAUEG3Vs8PM_7iJENnWIqs0iahAoVz6sWjmK0DKePsAIsweJ0fTUALhsSyDq&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Joshen Fish Restaurant",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbm5sjxx6vGbiBppZ5E95HoC7I7kyBdpUCcNPf448zX_PCc7H-GMe4EB4-vuzggaDRmvi9WCiitNyFltDCnTzOau2XT2-eEemjNOPMcNHZGA7WcXaacZQAVpPWbIWpTEdwidV4GK-M7ZB88eQHo04Olft98C7l1nOcikm98CZA8kOS22&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "samcozy restaurant سمكوزي",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnqNIOow9J-Y4IxYb6G_xQdRSQ1sNEcw4m9_QkXvd1dibBJtiFvHfIIo8D69OsHObVULiFJuOX2r7NmgrOJRUhoPhxq2aheKLTzZlQNq7W8vrTAMX5IrqIBGKNqyqIzHOsexlsObKAe_vXuAvflUuSBjDCmGoED-GU0l9DgQzE5qNaE&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Paellapan",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkjqJ_u3KpdQaPJeoqoLhrZmicmnMg3dstm2f5p0OFfwKdDFDNKPpaEaYNFzZ8Z3xXAVvGWzc3-zPtqt2aujZVIgL5bG0_8fr-lMPunmTI_jyicmOl2JWYgrknxNCw3UqoR9dcJ7Jilk3GSmcFV_2OYIdtpKsMxhQiYlhLL3KxQSWQx&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Eastway Market",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkKtzBm3wGmcm0g3xWfx0oxVTCjp_XUB5GuEphnWk2VGIh2siHj_qDV4711U5zP_TMve6o4XOlU0xZh3e80yQD1SL7mHW12sbjc1mWUeWbfVkztN6rHWkZkB3X6w5vhr8MgIjgoFBAI2XYGMcoacHrEaU2pcZ14fDS8B1t8fe9IM2hi&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Pattern Concept Store",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkXE-_0r30Kmfc-6e5iWXEbeD9IiqwvvZEEUhQzLQ6-wkBWUmt0mO2jZNMeIaQqG6zv1wVIfPW3vCHS5UH9fUG1DiLxvsiTXioNm2k1n___s9CnnQP9qAK8-S4qtRIiTr4goc8IoY-xkBp0Uu89jYuD0_f6KNoa_DPkubws8GENJL4&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "ELEGANT MAN",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnFumB0Fl6rT98osS2WnS2VvDcCNaWhlQSKX_YhlElozAXtW3mJH65rII2iTI5eXGGoDhrW7xv1W1KyN7heFDOLsqoEkXOUFFfvLIIJQm6Qa0MAHwrYSFiMuRhAAHookeZa55qSeeu4y1k4GI1Fglg2XYWO9ehFjs0q_c_-1e19cGdC&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Baytoti | بيتوتي",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmMt2k6KUoBcuY6pcbAsuons7HOctuwpmuak05KqKkcX6vvWAKBOnec2Fo_LI0QNn9UIFC_BrC7pqI85xoUbsUhsBFJyVrQFL4yqWGPlUoqLi89BPwymyZd2SG9yd9kkBRv3oKeRWQhwWGera4yfPHxOx8w-g53r43VSbhXi1jGB3SW&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "American Eagle",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkigG06YIN16zSGdw55LlxsDM5oe3dQXwBMJW5kjvFP4TdEK0R9CCP0WVSgLiFBUmGmiOxzXtaciEfnDZjAQxYesg9Zl6_kzekXkBy_FNcbhjWIBF4KNT2BzalTj09Xo81TJxq0DqlmOlf9PNuYN0vAIek_qibuq6OlcEkpVEkz6N-I&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Savers Outlet - King Abdullah Rd, Riyadh",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblGsN1n9wPn54kvHGoA6nGaN1LX6eRUS7UIDxIACh3vlSTqyO8vEEh4-me8ekn9RGKkQvfMjIYF9W1GsYpaOdY_tcGEaxRnznjXcpCb6Ua5X2m5iDIBjtoED6setwdPvLzW8GwShwuUyRwtMiVZBCHPwRd5_Tfe88S30OZtKH_w7BfY&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Fish and More",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkdwaU_APs1PgCFeg_HqyJE7CsZl7uKlXZ9lojHSft4UO--fsKv8RASQqr4bBq9LRueCJUFSQkdEPR2CPp-5GK419K1OgDn9mNhE0sIAtK8V5T63yHZL7Ixxfb0sjoY6F57GJx8C45DvmCAYfB9EOibwMuR2-2E7SYUvvYa1WZcEYWN&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "ملابس رياضية",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkV_tg4FO8Ze4eDNDYD9mkQdxnL7yCoNvHMA7sk4N1rWRHp89eZcYQRfda9clBxBMU0B6s511XKxxW-f_h17AlhO-4HywFSlgxBM0QC_zKlZkZSp8IdfqIZa3W3imIVCeMKa_WIPNcMoC19dvNkMSMkWIPfpwsfnVWJyGZHha2tLHxX&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Durrat Lulu Mafrooshath",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnQqW81T0H5_aojb08LIX_ZjmNpKfau0nCF4nrXfMa5qniYta2t2w6V0c27RjiPpeS4qcFhUCj8ISj96aU_axzBmTceCFVR6L1HwbaI2zHvRAdLOSFa_xOtf2cpkK07oUVjDgne3ayrSNuoDBe1hTLhK9lDtKMScNBaezVYuJG7lp-3&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Shrimp Shack",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblggCVhSnSqr5UWRFQhsRFB0KBq0dDoJvyzdB8RQ3EdUTwVzkEBu61ga886w4lexorXIIUdB8qwrBfZcQXHvp-ZrWdTube6yobCeJZffLteF246j061BaYOZ7heSFEcF287fVAzWB67RG2NwQ72D1vRVjv7Oim1mzafbQsJ8bUi0glc&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Shrimp Shack",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbl5tiiYOa0KGELtLanm_ecIFioBGsA2OGPBGUSqG-G-0mLFwTRb12Un5DjmK0Q5RaiXLKHKACAUcCitallPf7c-ZaUfx68HhGUZ_OJ0c-RAmaxiJMEXnLGKGdadibfXBfAOYd59j4OLY4JMd509ZtVDUAaqIuEwWB-DvEprrgBI37Qo&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "مطعم فيش فكتوري للمأكولات البحرية‎",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblWiktWa-6UUf6PFpvkvQbMVpok_0IYyChVZ6n3U1tx8Jz3qVmEwEJTYCUZq3P1PiZuuGyHsvEFEhqeXSJofrz4gDeTQh8_JhaHimhIdXbp6TwCAXsaZCDdr_-NKL2rxTnbdL6QxF1j7eQcBd9NmlHoHP-Te1OA7if5pjhUQ7c4WsEm&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Shrimplus | شريمبلس",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkNJnbuTyfWT1HYkVrmsT0LyfE8E_fe8g-E12VCLZPvCpa13BxQ0kdYA_jsvj1yXuAlgbvnvuqcyiiA1_zGpxz7tCkKb08XXyEWmSc8YJHVBe8qBxECBR1ceSAbQpcDBlSULx9wtdbD_mcyC8G9jvbxvW3aPN1rfvq7AVJbDomJwxkN&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Twina Seafood",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnnAjfpG_ceZCB3ZVqL7UgUyErefK57SQf79pP2ifY6i-zAPqek1LRScQO6nhWjgBdC1YGzN1At0eRTZFDocmk7fS-8hM937RpZHP-4dRmxE4CtsomjpvBenHWA7XDLqjZFF_KKiw7pvqHEyjNPQBX6c8R-cdYDl3islq3BAZOEwyeG&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Samakiat Restaurant",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbl052nhkJwR-wom4NnlAJs4nP_1gEsOTLKgLfj8_c5a7O_VIXrowK4yHb1_wKwuOdoqAV9hGbNL4ddTo3-lF-9yT6j44vQ_S-SGzWAPpRrhsryWA6ND2ky2dTGw_y2zeGRoYrDRTa6kEN-vWTrXsLYjeZc66aoUvecYTLquK3ZouAKN&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "DR FISH",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblbOWzFni7xvTEU4kkGQmWqFMvRDLld65riCbjpmAqevTSZ6Pq5wUqUbN-ScalbTUXdpe79fiJFYTNJg5vUCflP8O9Z-cr5KUo0nzALScGDUgJ9ar8eavLBiKbo81O0PENXWulpn2pjIWFz60xC5CG0bTeigEcbylXJjC3HXghygPIZ&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "shrimp Anatomy",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnWLfnx52h-U3Yp7-E5Kf2fQFU1ktkqH3fCfzeJUzx5Z9uBaxiaGz8FX96y45whlmJmORIXAO4oJOP-BfOK-MGOWq81kK6Mh0-wnM4x-evFmNsrtm_IRmUgGe17aF4SnE1ckGAY_rm1JmYNqrG9kIsRJCG-oJ-SB90npT3B0qk-mYeJ&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Ashley Clothing Riyadh",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbn_EW9Fe6QM5rB11oJ5Oa_TQ32EtHC4si6sUs6HuaI2Pts9cT1a_vk3KsFRyCGlx0wM8NFzSe2hN4ZHgvh6bWBUjJgLb-CFHgejOG1lnPpwUO3qrFxGCE4rm_-GMBDo8svWPsUwJY5r7PQvlke_d5coDr0OfxyS3nL-TBo4CseYwx7a&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Dress Code",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmvWrFkkCGKeaXZ8_eCcyx-DsQOHlwnaAv-uj4soQu2mLkMGKmPeC8V8yvuGzb66234TMRjF88NFqsXt7mc-71-72bBe_sXSc4lAbTt6zDjkgQO4c4e8o2buwXA9VyEwGqzbxV-GLhb4hJGk88fzF8CWNMeY--koAcHQox_JaMLXOcQ&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Bahrya Restaurant",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblj7iPkmQoNXqDQfTuCDpfYsc-Bf43ELIq69phewdLy1WBDFyoNyIazG8IWbdD5c0wQLW5713RZh9-btag6j8_oIqH9tWV7duAOxRdbnr2ROesfttJawvdUgZnoKJh69-PJE0uqWPenQcnrTOjA4RkdVNwsWpp3cpV_6ZjsPh6vS0LI&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "سمكة ذهبية للمأكولات البحرية",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblFnuIZ-Gnuh8zPhRPhmHa88PABr8h0bsWeDQVyryIrier3QwPRzIVk3Ey7FySw7vk7lNxLQAobBvh__yuWlpOYc5YquAzzpgEk2AHZcICAQOxLvZQNQQbIajwBs249hXH4oBy9IU7Vs81jf3v5RCIrQwcSmon2aBFEKYfVKX3W5xR8&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Shrimp House شرمب هاوس",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkee-DhpHSi2Vm0a-eZLOfNw4hwGgxDNw3xydjNuGlVWneWUVDfDM8pvF4rpLZdPjT0Dy0EHIDuPDODf-I1eTgLlpnKX0rt-Y6yk9LfgxDsoZ9vEmgL8iQRGIHav1rqgG-dPkL0OdkUqsD_yXTxfMDr8gozcfhKcXba7EoZ3vBIUn9c&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Shrimplus",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbng3wfB_cLrydoXPAVq6JlkixeHPi7lamD00AvUo2-a9odLdbN83LOb_gYZDHgf-LaqBxrwbbee9l1EhDtRkvUFGz4NbmbpPukZAVVScp0qm8cGPkkxflrCEC1NATwxaHFDvl6h3tXWPZVBKg2o76lyV2ZtMoLLwFAnC0lRinImmRiN&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Lilmustaljamatul Ar-Rijali (Al-Baraka Fashion)",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkdRMFLmy_2twSP1AgoKRZrVF62m9XWNcOcHfegmYa_iXd5teg3GyqZsi3WaUHc93GWSyT7cmx4b9pih_SeH5KdvS_aPpYNGSx6Aqt5UzpmPxaEyFFXKjFY1sRpL2DWEIB-tFqZj8-b3eE2PkqC7uJMCzv_A1O_UITeeJKDeRNx9FMY&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Saniya Clothing Store",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmZTiuad_8OCHwLxpLlcVthnBtqIMLTq17iNXvJv3daUcpHQrtADNsA0jMitYvzAWuYOeaySizvh_OaQsqKrV1L7qWaTqnLzjZAKpPb44jEDRrh80wnuEMxUlllgzP6qmlzWzESKIvH6UzDvkmDfa6qnzKECbztdHsuDBDE7oPT5Gte&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "PENSHOPPE",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbk5aS0yoS76cV6wntRZeD-8_-BtnWThbrYGI4jfVcLg7Q-YtBVmSvk75c_IdIfxrrCcoLZOLLjYla4Uz6DYCzk260r101YFbbH3LwJYUngPPefsevdIOpOoumyGXJ__yhGxIP8BdQvViSLGO-ni68feIb7dFBp07XvcfrVsOeDTeHRO&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "SHRIMPER",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnhYauC1r2rxVWwzFS5xq4osBX1nHbE-ZQfIwreJzKHh5yzYzywSCYaa9XUmQ4vQMqdK2tYmjjmpIS6dNWwIugFNGblVn0fk3exbMHq2eHYNILcuXpIb2vqAA3o1HqWcLSyvxsg5XX7GG37RxqubaKLjDl5etOuIyLO559F3CL-b-Y&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "مطاعم سمكات المحيط / المنفوحة",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkedBonplxODpsU4L2Q7-96ho7j6uw4aerK0ORuiaoeRTp_4zhmOPZ69ZzYhYPVDBaECQpy4A2EK8YSbvctV6-w2FQ2BkzhOaGWBUo_GKuDzt7rY_pJ4tBpxKyO6GiOcgXpqlolne140zGEx19xN6iztsJb___n4z-CKsspFTtW_slF&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Best fish and chips",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkCeMatLQf1ihKntUhQcr8EJ7WEBglkJnJaAEGOMO_6RAo34-Tpc8sS7sZZccIr_5MOJDUd_Iz05vNZZ2hpBDbhcmjGJJcx-UiTxLDIyId5fSZyJ6CoSLtC4tuQxXIoArY3MVgfLDkDi4-wU4Co26H1Xd4omzr_GHQIl9n6WRjozvng&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Scott's",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "",
+            "place_name": "Fish island Andalys",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "",
+            "place_name": "Norvic seafood restaurant",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblgoB-XLEFHxkCIQ5D6qqO_--Xl9NJI2Un7BqgmsJ1tSQ9mLTPlPv2kamu3hQf4RfFYW90V6ekTOa7WkWP69oZIFCeXFTMNUtpBS-nJ5yqbFgotFvaIuwsSILwNt8LqaE-AosvL_OAKgSSAn3CFJvEvWNanWpuxM00KtrzaAv6JZ8Zk&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Shrimp Zone",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkE_ipHbVnbw-9v09_nzU_aMW5_K5C_vh4NyJUyn4TUWTbAvQqCDJsP7NuLA1nQmmEa6xIUt8l33958tkrRpyY3MCfMmrt8HMdHqKsHHgv9WjuVWxDQJVtUfHIFcdjUy3V0abqhtMn9qQ2ngbkiT2kPzrlOg-nbZXIp6_fqdLP8x5kB&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Station Day",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmx_fUeCgGuA11qTJ5dME6MMBcJ4kQPgihtqvg6kAO-7XGjlAdF2bwrhF9en4UvDA0bms2AIlMfx6E7NPcxDk2uMuFuXpUnVE87IxeF4n87A9KHEvdqBhkubYCJgcbfmSZk9b_ZXk5mlM-KxbK_6_6VuTMYnPPS97kSDi4btuzmWp-3&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Fish Island Seafood Restaurant",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmqRyvG_a3j4zERDk4_CUxkE7RmOlJQLV0JvGYWG9ke0upQDig9X3dFD2-yaRjydVh0LxCn4DobzjJdmqAgqwD-wtMPAgR6BHKbfXIVa70M2Rb5XHXQ93MCYFEu5hGGzgNVVsiGPXALX_P1ceHIyJ0YWtzUohEvofaqo4pWMr7zG_GF&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "سمكة ذهبية للمأكولات البحرية",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbk_ZZ0wIyidFn-T1Wnc4_EdamDicJxIkc9yL8mMQTAG7woBxv_kSspcnBrGmpmGHJkvxdNGygQ9WHV2Aiqz9dZwSwFHmDMGKw6lppo2Hg7TKSotCpXAKdqHLZqfLnuhlAJnK12tpFoCSk3O25_txS9Gh8OjT1YxMH_OiL8ZUcRXi5HY&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Shrimpnation BLVD",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmagz3d2fYB7g_zIlnBTuUhwzTZM9NGJpO3Fi63a6g9YiQUkYsvfOGpblUFWNAiNUwHBLSG5FC7S0LKTFzMduxqviOVfYerGYf42uAvqgffiQpfZA33pbAInbP7wc970EP2WJ1RibduYI813FsRZnRR9_IeD6pFZI_6CcJY7aYgiD_n&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Al Nafoura Restaurant",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbm5XDsWgqYU-xnwXYTd1XenPRKwvgWqSp-Y-7CJZw750StZG0NxB4auOzq3Y1JoEu_Aaojl76K0CV0Nmr_rluprKBhDntbtrCRZ8rxVquKr-ZUXH9pL-W3Kzm4ez-kGW3chX46bdCH4917kPzjhz41hmTBoKvnlY_ZWU4LH5ukCiHlI&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "FISH AND TANDOO RESTAURANT",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbljP4w7GABblpNUe4ZBGLjT-f1DAXmcIyfTwcbLaX37BqMkulwJf2WIHfiqE3KwhQ2hFkprjU6dg0j1s8cur3EsL-KI7Z-mDhH_cVOHD026dyXCCfOpuVH-H-K5xGqJQK9YH9F6iOodnOwTJOphoFbKyYR8vYQP8ZWqVEl9Cg0gW-yb&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Sports Shop ملابس وللرياضة",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkZDt4t6x6MRYbv54_ySC08kQ6M7X1J3nG_ayedpPJK10uwnRkHdosEONmixFDbY17RCJe8E6g3nhWCcwQNkYa8s06ReAdHnw180leAIWmjAxWxVVqcK_DzbDEsFJkdWnaHbKqIvWNVwkwr816sxc-4_jeL6-mAT4lWRqiloHkP3Q0&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Feluka",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmk1wFPR5fgkz2UNXHC461pa-HZbeiVvForHu1_-tbhULmMiMOl_SmlAWjQX-uI8cxJint7tZOLy2d8gEzE7MDXEKgv6M05Vk76v7Jt1RJALrwu5LtsBVh0P_wfRi9HyLfUe7GKeOpYJomFyido9YYYR2X7vMqmEgGZtRs1vaGxnDR4&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "H&M",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "",
+            "place_name": "Fish Restaurant",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnCq0qkQZM6JI0udqGuO5rpgrOqGT019DVboqB7YnbI98vAqm8oUFT1dpzGp-8McUDJPrriPxpxrJuoKU6TjHlTWEeOmRJzv2Qqa7hT-O6nsZLDDVLvb9bs5ufeTYRw6k5tEfHguuZAyZsr1cGX7X5TBlUOPJxKTgrljk9pxAf6rpfP&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "The Boiling Crab",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblWrM9wU_dXUL03bEB2Yl4dzMMtvWUwpm_NtweP9eANeZ1GyCavPv2tPpTrQVIqjyc7Pk-FJ0CqUn0jtFNAkVtjKANvkzOJxZKGbEDjPeEhu8oPB8XSc6cS4KUPLUcWuDwrUgu2_fSbJftPL400ytoM0hJy-djz6pztFIyQFJ8fKSU7&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Shrimp Shack شرمبشاك",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbn7c9SFWEVOk0KooVU7ZdQ5m2G7I1n_1YDOhAibnZ_x9jpIn709OGWIc9Z0bhBlfNwlc3rGOhop_m1VLXjGTVo6WVH258MDx9_B2lQwPZ7UIjz8ayRkhhRiahctNJRP4v319AGemB7imkBCfTqgy3fa3pWLdnm5Zr-F57rcTLqcgbkp&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Al Ladha seafood",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmT7vI-GOpQloGeErVjT9od_O3atltYZkULbO-bgjlLPBeCOk1YTDksCXrXR96-EPOo_Vsj3KCU4Qh7pa-IMIN5pdP-RgMVotjYi5oePAiVaBjiRNtlD8tq8kjJcXz3WiJKH0IAOm0KsMAUJ9wXoi-fT1w5yqUR6hRi7BM_k38HXAR7&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Shrimp Shack",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkOuvBpLb31L4yzmb7xiZ_W4oak_t0S8gxVRIUs9yJjeoI6xLWWzo7gi9x8jIzCP1Lqr3V4SGimhOCIHoMqS80FUgiUvWVe3qoEzxK3hYKdPAZ2WuhqbSZGf-0h8aCzqE1_WakG5L4vCKIjq7d9g5qw02rhdlR3ivLdl6J7wKzXbp4x&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Jumberico Sea Food Restaurant",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmX4kkXL9VG8_EYD1H6Rqrhv_Go7L9tqZfju7hpnQx6SJMdL1rV7ckeAFs02kr1cOnjl0BXUopH3rjaQpvON-KaPzpH3UFQEI4uhvdQC8VgW64DfmU6XDWLNoTyChbvcdg64oFXU56WTBpSUVKuSl-JhSE-eNwHJSzb1Mo7qldP1NcW&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "FISH MEAL",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbm5YuQ3daOMuaQQF6w1-sSK4kd4A4g_6EAJbw8wJMIwtM7cvKwR5pJaqi3i0IOQLu87zcnBHgXiiPW133tVzZGepe3hWrV1z48aqYv_X-ptKjURmQMYcxOBChRINlXV1zs5tmMZ0UG4tuXk8loVub6w65E0iB3ygR9Hbkj3QvQ3lY4H&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "مطعم المسمك للمأكولات البحرية",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbm3qhWUyz0RfZC_neDot2qyAnlQMiUjUZUyrqS6ipiQXy4vgZWIROC9VlErnK5pm5Zuf4s2ptwfiBT9GAeQExpzP71XgIMBRVD02EbuR4nJgpIO-bASv5lQH-Xyp2QFUa1EELJClA6YMhIGHUkaenOHehS8wZ-p0I3DqTmlS20mVrxM&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Rubaiyat Department Store",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnKQBdZOCVDGWhDWpIOg6EFvSFRwxLq8njSk0UmZDnyhQqW-9B0AvR1jwb2dVXkjtXcJAFMK1foejLoWYnLObWkwGFBcAtBLENbQq-VE7uw6X2sCSJofhsqm1L_7-6yp90ZaZn_0b8mgkydw3ylIcwjj9zbI05FB9pd2pTWTd2RZ_3Y&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "سلسلة مطاعم الصياد العالمي حي الخليج",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "",
+            "place_name": "Al-Sammak",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnOUEJjIFse88DNILg_PNR40ibyv68XgbUAmlo2VQawalTjysBCwsT_Xa5Xn98MBS47yKy6PQGhClWvZn96iflWvRxuxGokU-jMK-j-f_se4f-bWufxpRQWIPGL2VvcdlbR5qzn60J44a4by1kWr4y61W8VQrv1f_ximadId33B8dG-&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Sea Flavors Seafood Restaurant",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblPK5wG3TcNaakMVnZRJlpWA7r7s5vdl9AelY0slNyW7mL6kV4C_UU-ge5f_EWUEIUU1GdduLLKDqxZKhXwQW6NfiOHexpM5GiJBiGPMKhT4UhJXaTBFKliN-prR2RP8CAB29QJOqSSzV9xXpLmTwkEA_KT1Z3Xch0sCTI6ZXY87-Ey&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Sapphire (Anwar Al Rabeeh)Suiting &Tailaring",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbn1bXPp3rcd2MJMgeg-X35NdqcAMwm3C5HzyC86xTTlT1rnBdv0Qz06t35ZAfHoPSZ7N5X2oT5JQxL7NYxsLmczrJwKY4YRdLsRjxig4OgeSXKgdUiqn0EdSPoNMwGVAkskoZjKVO1Cv-68BaYhS0IOQ3zZTrSIWiRq2kBATO6M8giJ&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Dar Mubarak for Gulf Seafood Restaurant",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmNZ6Y1h8OtZeOwrW-MfFkIy_Z5xUcOHm-VUrJDeJYhFFqSNOURcH8tCYOuIJVYaZBF9qA6QLdR7L2T-VLeGT4sbsE1CM7QHzcyNpFT1WKGLIfzVFZiU3AOgYER5KVvIWIoO1zTnT7LlhPG635mjDgfzhDrDlJeHlnms9pI6XZ8F1GT&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "JACK & JONES",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnrEasY-zOcyECDg3WPM6Z5HfIABxn-Td3UZAogrtjMGADHXCVlRUPyMS5spBuCfSRnZvFqd1FzisM8h2UoDWooxKWkBTo9Al_42evlw9bQ9q0z-pVSRONhKtB4v6Ed2GY7WAZdBaOwD5hfgYhqgRnPnwxoD7FBVT2eVMXyMIwoMfU3&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Shrimplus",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbk4pJsYRTFGZr3c7D8juEqBJmN7Ujpf3N8QYV1hWq8agZMxI5sjNsp6GmFkpc_jd1SPEruzUmEwVXEzdVCaEdCBdVMdFjqRUuIgOeX7z6uJPGReJmsM9OZY6NDbwnW_YWrvV6y6dx-wDaGLzZGHEEVQpsKucHyxtdunV-utD1Vyms13&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "مطعم و لاونج بيريدايزا Pairidaēza Restaurant & Lounge",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmqaKyNtNrbwRKyfukf4Pv_5voqUuKlMtbqLFHnHVp1X7aeEMhg3YScOND21uze_A1MXLuIG_U6p5lujNitXBP3xuzgklkNEa26qqcy1oV8DBgqhURQAmIe6msikWqvWrsTMP6wXog4cM1bXPaqr8ta8YFGHHWDIlS7kwfAkhfPjwCz&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "مطعم يزن الرياض للمأكولات البحرية",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnEZn6tmkcgm9eDYXT6-7MNhBsjit7TLKpMVNxwg0JsloeRMoCEzb7G6ZNWPjieH1TAUVB1sXpEWnJd7PM2BZg3_qBd4jdTYh2SQDf_msGbuYPAe7HJu7Q3JL4x-mZizr0lJQfqIc8z5JYAtczzLCYeGXsr__sSIbxw23YnMf4tCV6A&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Shati Al Karam Seafood Restaurant مطعم شاطئ الكرم للمأكولات البحريه",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnyvSGzchqJIFoxfot8W-2tUdnnMPNZlmkBQZcpeP23GEMafn8mFN0vOi_jHlmrNS63nPJoAHGXT9uVZOm6f5EQVzEeTz__eRlyX6fvt5oMAOTNwYOvPv-pH_CUCQQm3Zp2pHrHBNYgXOVw65hXWrbTn7tm7hlGKXUnU7LYl9OoGQgR&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "الدفة",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbm6mv0udgxWNR_jsFhtbBixbro6qlfBSezg9j-VSsk3j9BC9k-KY3k7Jli-ZwPh3TJO66h9ANm8CS5nuEYPex3BK-86S2qTU3HSI7HYjiEYPtd41Qkqyhu4z3mp3XflYXYYryCOhsAlO222m2XqAXYyCbz5-r6Ktax_SpStlyWQUHt7&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Splash",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkJoJYexNMzUXAncoS7FapCO2pJEcYGbWynuzq2fFuR00KDMUagWRcvS8nZ9DwnuFZsFa5256vGE2__JGiHXhrBeDiKqow9gFoMFm-u1GBo378ivuneFpzIxL9CwE68mCgs1vQd_7uga39QlCXpQ_x7SeroiXc_zYil4kNWhAXGkWJT&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Shrimp Shack",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkqPatm1ib5Sr2xNciSQRvyuunI0XTVxuz5zy2JVQcP2ezK2-pvzcxnADNigl8iwf-09Thp577cMjYSjs8oP0qhFREHe0UJ9sJojcncXCwBZLG2Z_e3CSqJu6F1elo2-8uUGda9Pm5KMz0kbbu1_KbKBPII9jq_BbUxEwNQz6xCseH2&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Great fashion",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnKyu9yFLjJuDn-OtAlZ_Bq0veJndxldSN-cfE6sjLhiSqw20cDOiepuNBgVPy6VROwWsUbU8SjLjdhDhqTglF8W9X3pe-UywUzyj1XjwHqVoQ5LbnwPwnhjw8ZmIQpwj2pUAjCpZFusL8tdesV6N5-UE470hLfaTLsFbPLq_cLmZ8&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "د. شرمب Dr. Shrimp",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblwrppl2_y94i9lMxTTr0jGOAHsrEfe3VRMlRQhi8Y4fJlEYOCWsghg8sIXlhYWDmRPPR-8gClgtBFysVYR048sofHhgRFp8XkTF6fIhLplOdVMQ6pCmHqaIEnvL72UFVDvNvdN3rWSOXjud6NPHpI1gEd9lX7j7S8aRrAcRlFaeh-D&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "SULEIMAN FISH",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmxpNVGxwTcLL8JTq3axw87-PggLmBOEl14mCHGPLJqv0pBQF7jKQ4SOiu5v-of5b1WH3OiCfIpsAO1OAJ_mFE2GkKsChfVtJbf98ks5klFHdhXjJJXVAdtwswfAYcON-nr2zG6SoDZtzRHQblAOaD-GwSxxNqOQvSCkQXiHlRJtzOW&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Shrimp Nation",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbm5GImV0veMSnANmgwv2alEfCuBZROp2OH9rEQXi0wmoOX-E-vYy-TYC4eZ_V4k7vbsZ8tePtcmhC_-5NloJSMdDCgE2fXSYkPQtm0rCub82gw_c7NKGnDfI_r77xbyyDoVotpHR6ISKWk0x-h9wE_BRVn3fh7d-Jp91qno8U9Fc79v&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Seafood restaurants",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmWQl8116wIhHQwLz5EYpRmQNvfLrtPeR36wtV2QEjdtkeP8hPH9zSi9WjieawKeh4ThflLxb4xdC0nKNQXqp4pT4AXAStVXRMZ4yT33loRyUoHUDErme25RjquRL_81sC_kp2asrJYKNwPlX80QqH5ewiRF2vt9WTNEq9RF5VPLtoz&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Azure Spanish Restaurant | آزور مطعم إسباني",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkLkBXtfuaMjm2NfAC2LxFTP6bE1bRGZ88CapHUfSGk8XwbmRBlWlq40xfclWQKzd5lQJfepE9KFp1oBT5FUlJMcBWukCwc15EMjodgZrFA9iElLmeNyeLYXkEo4a8OqoDO4MqzpFd_a7-x6P7ooBZCZE24lV2l38qLRttV3P63Trk7&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "بحريات خيال",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnz5O3MS17OeZySBhtJjr99Nn6PP0OIwbChjYyZ80DjFrv3AhGMgTVZ0uisuh5-GBFCByvhcMewg9tMlXpiS8f-eO88bsPNw7D_tLMjh79mQbc29mu63TV1ZmSgPdB34P-NYn182Rt0OCkj6H2Giq_ddeew723CWn-F3ApUH_7nMTp3&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "مطاعم أسماك الزيتون",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnekw1179-rxGlIy40InpqxGuVF1Jnb2qw8zUcjHbjq8RQ_DQiBSBG2oqp-pz0jp005iwsdAzP3jI7HW50Zs6J5ugnL-Mx4BYTWF0cncZjrkIhWSAzRclsWwP8baWtXoue5tNuH9c0FBu3B6ivnBlB9MG3yPSfoDtCLqRX1oIXHQ6DT&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Kabaila Seafood",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbldtqksJDevfXp5JfLK682XCSN_XJbg5WtciSLvhks_-lGVUqaYKTALVNx1NDHOdn3gt-g6WbyNUnr4kipJ_JmIKsCAgeQzxaJ4K3-pFBzWD1UbA-O2YlXrdAiqgqJj7MvrlbYPKZyFQmqW92ckLaOSwZHZbXBE5C0qcKedwDqNYNs0&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "smkna seafood",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbl66qZQqbqGUd4ANBWXbyTzriv4lucs7vsOC0Xa9-ACfz7ElqF-KnyuZAJlrJIJWOsxiveoq_42awUdEwpUKa16f5lgUeH8KQNjjCh6qht45FbJy578O3OxwxqI01jV5tyu9e9IYYp-QyVpwSf1oH5lqrkos4_D4jTXLq68a58iQrWz&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Thai Thai Seafood Restaurant",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbklZ9Cb0p5JTEnZERgiN0oLdwAmkYDTDy-UlEZy27Qq8TG8kZp8jxEFGkFNBe_d0z2FWOb_X6Wwl4LfL2_p5OvDbsiL9vpZlZV0rXkF65opnz64vntdrKtioLdVvQrUKqSo8i_lDQSjmldhn3FGxmztDoFe9BIungPGZgmq9_cb3x6q&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "مطعم مذاق السمك",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkXCJsnaKUZlKQSIbqLlQD3XNKKkXs2hCAfhdxOfs3ZwYdduqgDtuPpyRZQ0P5zvrb3qKZS1yZWgZuQVGarBdpd3oIsuefu9b7U9wM7iAqLXkCBn32ReelEbcZdCeF_jsah9_xFwEU9FemGlQElEoOhcXr3QdkRHdRGCt0YBj1uJruW&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "fashion stop",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbk_Ok5VhlEHVufWlwfPB-9H_xjatCzCClNcJLhil8fGUPy2tAZf4ASroiC7ab0WudS2xmJi7iozvIHlZqwZHuu-qGHtFV5nb6veTtnuVtaZCq5AEDeFxfHawNGIjPwHvj3Thb5KENnCBBcFyUuPXM445nvqq_5ODgvrT1PpZhQdnHbV&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Istanbul Fashion",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbn4HXHKbk7wjKPS1C4pdrNJRqPk1DzkWhv60Fy312WD5NT_FDZhF1rvmOikbQiO31X9jtlR4JUMak60rM_h_wrmdgu6my2X-4IYt8SJo_Ee1UxdVnSgzKRDN9pKX4WcQwCJJl_7rZk1ma-P0oosz2jpNtvJrSldUeriGUtQJjlPvFfz&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Boss",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmp-mKDmmS-nUWoFyrJ9B847NepnSD17K_EaT6tp8F4OCD2swp4mwIv2nLTOPvZw2NCVgzCocTba7ynZ9ZBUAPU8go9GqNLT7_7XLO9pjmaV08hHujTD5sc2DHdDxd9tl9pg2eDzd62MomA3gjfR2b_hHZLn24k7kG2U5w8q6yx_Qdd&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Samakatee",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnngbdtP-1GaK30R3y39aOvkqStrl2Iiogl2Rb43avWirC_IpVUXX8MWVTAWf3sKxHxjz0OgQPr0sbs0aNThQOkQWfpqTcvAeQDpuyDsiEnBp8D04lE6yd-MIuTvvfMP0ycu86y3y4BKx2ZogQf2bgJvZI1OG8LHc34owk0PqbtGlYg&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Shrimp Shack",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblCvuvTVRA2BYB_U51AROsHplMfu_9wMlPZ3uuTImTy-d7cPbtLPc8_ckZyT6bYIpsDSzzGvYELzTooXRCk3NkJ6oY0E9ncOtCBVrY0SHJLMG8ItBJDESbWz3sTZOkiFZVdref3O8b-jBpABIS4z7T6hYIHUJ1t_bTtWj_Qj6aeHRUZ&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "شركة موجة البحر للمأكولات البحرية",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblCWn3B3EYKHTRAtrC0a4n5-QbQMxFO3y9CK8Q_0bi0XLE--jhqz_Ol3ZpPmZqQi8ztfI4SsD_b-vDpEOSRNNsK29vXYP8EdFaKp2oCw_zWIlgqk-Qy9RfNWLAtrdr-4dgUdzwJh3XmNdhLafm1xvck-jYeMlQa8mrCLqPURLgEZWBQ&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "سلسلة مطاعم الصياد العالمي للمأكولات البحريه",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblTlmpJ21Rimiegj1-sceFrffenUFI9lC4dPGwVxKRe_NAiAmyHrH_I7aRovs4bwsrRSEbai5TzRlHPE5mDCzr-XBklx419oMhk5WtO3qrKlNBNAKrHy4mnQ-gcdgwLpUOWKzbh2nurRpdFxlHZHGim9A9jODZAPUF-u56G2XQrp6GS&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "شاطئ الصيادالملز للمأكولات البحريه",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbm2qSKPuxxMn_rpdUwm9F_Y4LqPlnxJdAgARjfymWYAgHidNkXJxXCR-6vbwd0gem2WvU9IDQOby2va_2e75xiLeyEK30SpIYT33Jc8RgwqeirZnEMkx5eRbg8CM_7q80KRin9Dv3gqwiNHKwov7rCa_MKaKvVNnAZokO4g8238-Fvn&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "مطعم عيال بحر (بحر عشرين) للمأكولات البحرية",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblX-EcnJAr84iEsj1C2g38x_LRejMxUmL60gp4aH8DD2R6pHlPZ90y7ReeEAMVXXCoVzTQ71yJ2FMzXc9YWtWVmVLSQCDbAqr3V40uF3rt0aLE3JkYJwlgpW19GOMUkY8UYYQQj5c6XTFD2gbwQpiQg2UTmlFP5r3jTZdhjMpNFN96E&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "مطعم شبكة وسنارة",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnN5Xf1x5QJWFTmBi8tRCZGe1ob5DLHY5bs7z1z7I0p_SQhI0dggNs-pmJWR8kd52wf3CDmOdKwlFGCmFVLS9CABVUxj--BsqvGybYPovlry53GlgW9h1rQzK575SQG6sms0dP04FgbwWy0j6La50uY5BmJ4ZHUZP7Hb_5wNO_2g5eq&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "AlQalzam",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkkYqgOGYrEaViuJ40J5aOHpzMECrIzFAzuLaa-rIl6U4lBpHAw3pq9L8kaplcCSTG4a4gNtqh-0YjYfGjr5-UjUiTBy3NoXbcOhlHQCq8N-HQWODIwYiJyre9Z7WmwNp7wVqpYY7ajBXrrYUQAZeTdx7_tBImlFys5PY8GRts-Epm8&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Fashion 4 Less",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbm4SgOpBQhv9RcZ1stci8qOtP4jBsyMQNqBGyp8_fYWQ26F7Flh0pZ-HpWoZov7-PCdS7JRUif5q7nB3NV8FwNmoglSnph4-EZhrH-ItP8d4W2IlVXS-_E2hXPdVraJvLX-7OctszCnxCjsmW73zc2YcduoiWYJAPIMfP5Yg3MALPXp&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "شرمب باق | Shrimp Bag",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmE92N7RU0OGnyER5GoX8wtFbV6ZWzzwuBGL0mnM2C6U-KY9W3xUb4Mh9avF_8qBn8d6ULgcPtxpWN-jE46j0qHl2A_PY459gMJspPljjq1zzYAGW3wMwTE5kJxF_C3UMhpibyOIdhGAQyxQZf-jdW43ch-v3uEhlsXFyeUss0Lvcjp&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "MANGO",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblDSwemaz8d8Jey4I9q17Te9Egms_nob1ejz1KgFGrfBai85jTUIAg4TZF9SqJfhfAuag-l0avlEjCD_g5aY5wdENOChs28KaaVckDqec_YXaTdur2f8o133V2UhfERHQbhXia8PTWuIk8G8p3t7gHtQagjxndmDJnuvb5DZQSrr2q7&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Shrimp Shack شرمبشاك",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AWYs27xU8fdKV9GroXX2-pAyb6BTXpIK6Ex7RC7jJ3d6B1tElQx1zosX6q5KC5ayl50e4mbfYPTbVqxsm-hzjpab8tQxcbszyrVUFHHLvD39u15G8bPKxKyQa1OAEhdthYol-sEWcpiItwpOfFXdxZ5o7xq7NqAr-AuT2JA99GP8xV6rI53K&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Centria Mall",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmk7ZTPBXK8YCzkICmPaWqcn5P_xML8AMqHvC50rTGbtXLcxzDLRxRuFAC29YK92Pcpufi7K2kgCV2aZQGCD2iUIWu0m_JLwswdxy4aCPM_KXK1ZGoF3ljHsSug10BbQSethA4AVrzHdzE0OQZdey8g8kzl7c__nT2gn34slhEdMm3z&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Olive Fish and Seafood Restaurant, Al Yarmuk, Riyadh City",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblecgPbwXIXXfzi_PVI5mmYfnC1zSbibTga1bmYsYrM4jhGH-iyA3FjNv7u8SpIqbS8O-aik1gzpJlwzaTt94A53txT0uEuDk7eb2jrDB641EHTYCryJNUksEdxOHlDqE3dq_Lk15RPwNLOcMUxREuH7XZYHhognOJ5IsZ1oQsnEH1l&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "بسمة المرجان للمأكولات البحرية",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmR3gJu6E2PSZp-ZqBVK6N7DV-b0I3su2PhoVkxpfSgXBZZz8sjTchJzqJgGJQHuweR2rZUp3TMuAYpNqZn0VENCovfVGvcCJ6GzoDdFU3oJfohQ-e8DnZ19rDZ7uSthNoM7lKs35zVPAYMd5jY2r6DE6_xjdELVkHYL857Nkcl7cPA&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Alshamil",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnlkxaaZQLfk2xjVBX4Rj1ZbXElwP3QZwk9ptcqkk4bu7Jy97i63hbaLzXGo1abWCUA5rSX_puXN8wRsfAb_dAlNnGyTOTizERQ5QM3gaFq6m7A1FR6HfthwqIFZ_VFuRwhblxRHv4lXyHE2y940d_px8_R-64pQ_St1l3aCYHXlncG&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "مطعم بحرنا للأسماك و المأكولات البحرية",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnoktopL90FWz2ro7YK_5XLzfjbdnM_CibCotc_aHJrj2vXQwRNRoIHYOTsvkNYKjR0nHRCvutJbbbMbWOB71d8m8kvD2RtJqnSrpywXpWNCzyyFN4_IDArXTFtD5Sz5vcX1K2V52r9JG14WzKcNfN68jEINaVLVZ-BO-mZodQbNFD-&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Shrimp Zone Roshn Front | منطقة الجمبري واجهة روشن",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbktrnXS8XGqCT1_w0JCPfkzNX5aa-phhdVr7_e9YeQo3FY64nSekpssvpvqHANePfBaP3BJ2BDQng0sAtX3PGjOYhOtiUKQUu0zdhaYVMvAtUnvxFPxZBXK-SpJV_WYrYeDAB7iuQL8dG0WwqzpotrM7oHIFb8OFYVTg6kl_Y7TX417&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Brands",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblhsBJdZ1Rkx9TMRDOUtYstkaczo6rmViAY1EpjsQMAySiV-SxqKmLMsXvf32_3KuFelwCOTVrgu6CLBNcXqA-eSD53l_Yys_qFWHlGLYAY5CbEymhGTgrTdiv2drg1snJKJR3i6WNEjQ4-605a_XIVIAHE69MaPVttwlX5s1D_xr5O&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "ابن حميدو",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkjqCWiW9jkCMAkSgJAOw_WujWd-6aj3lXVzu0RyvXd8KbAJPm161Zj9mXjOVThx4JIoonH4ZaVF8dEAzi3OBUR2_zlmRoWjE3is0-DQFlE-9GcOgR7qJBpbTP_KF-NC08AKD-qlSVw6vFGrzOGHQoxPmCGfrtSh4qwb-uQWHs5MeLR&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Bangkok Seafood Restaurant",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblbwLgP6dWhUwip2IE5hm_MNHzUyCASD4Re_hfP7CL8DQhBnmrKQyXZ7pPGG-jgAYeeQ4rEfHOsgRfAU2S6tzQpOLDVelj790EKVELEE5JBSTxfL5L8ocKXxoZuoQ8hORLkRoI28aX_ydJziZ5ijfyqUX2CPKPKAwkLGr2qIZo8DjIs&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Oyamal For Seafood",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbl-nhpebPqSy1AA53hpyPe7xT0xiyZ03GPRNhgFe8rdongkY1qLVaNFU1KW98bMDJ5eNYSLZSPdfYUQWE_5r0oMuSLbhNSxM7Ly9Uh-sODrHOu7CyPi1In30pddCsauPg2KnN7rBnpGLJV6JfFcIW09lQK9bKzAMww42hpQPWjgsIb-&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Shrimp Shack",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkU_RhnekbyuMLN3kLFknImwxhyMt1s8q1r3OLDfLTIldcu4vxS7ef9yymiz-vhTU7hLx5BgZ-jO-6P37SOZZg2Dic2efvJb0qpptA9DfRxVag0S3PJMMslf7skrmNbxT_-YiEDy-rq-V3wObRdA3nFFhIsy__8Qj2s90oErZ_1WqDy&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "صدف البحور Sea Shells Shifa",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkHqgmK0GPi3nvGHL8InfA2diP61I58NZJ1HR-nMFl6giuLV8cquGJiKU4tNXSd0RdbE-QywdBRIH1Ilw12-Z8KGqXmf0KOahZvPPeIKmzWj_Jg5z5l9s38CsdI9JaRRZI73vgrFVo2a1soPT7P8Ieh5-b-TGue6OqjlAIlI6Zj_kEN&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Amo Hamza Seafood Restaurant",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbn0VFodxspvDku4U-zqboe-PtHoPeIqxUExL8HhrJGx1d4vXp900SvfeufJPe1Bqko_A8iEnOXku_D2Jmisv2AWoRnOML2Bwg7ZhIjE0PJ5UQSFjBagjjL-uNsV_XAWuIGnjY-4NzFk7FXAX0Ou1v4irraYXEIxy0obXDrl1lC1WdJp&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Max",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "shopping",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbl7jIs84RWTURKFsSIpV2AmoJoAtROzibohL7wU2Pd9DnPv4WG7DOKCNJDoY421nFZVIn5jmpvDiGLwUCxeZpQ-tVwilMKWdu3AJI0Ne-xDtwycVv0UVC_DYmBUn5uZQmIFvuQ4_x13uiJ92Mc6bjwEhyZiswo6S3UCd1zJ5805s7dc&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "معرض جبل",
+            "review_count": 0.0,
+            "subcategory": "clothing store"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbk1L0bccw2biZQKby8XmoOb8X3gsCAsFxjadBMjRQLDDb6WLT5MjZCARNlYkKIJAgDQldITohLfJbQMAmHS8MeCMNjn33ZQHfDOGfasqJEVgNWXljFBz34F8mjZ77wIew-w3iDJNEBKpxHOYwDvzPSySjQFyL-VEiqy9btH6nWp0v1m&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Bangladesh Restaurant",
+            "review_count": 0.0,
+            "subcategory": "seafood restaurant"
+        },
+        {
+            "Rating": 5.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbk7kij79V9La23bBO4hJ0kkihJDYMDDfd5REK2iNunF1qg9LphjY_BL8gPPRNSomJi5z4lBo6-nBLOUHap79uoDtVcdDrNDihVKK7u_L8IA7LmClCbI5HKP5tnqJMC3K4T__hdJtaghChOgMyR6C0IRbHhIcuG-naX_mEE2PNQ4leLL&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Volcano Sushi",
+            "review_count": 1.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 5.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnikCI1l9KoP512vCHXIV3bXc1QligoMvR2Uw9yquJJLGgFOnsko8346Qz_2qLhKidGxamgRxTovxSND42re0Vs3NfvZA86iM6ByZkMVUtfS01HbhHFPCDoUtcAjYMJZXAMi9UOBjIJp6QJxjAK5yEIeb4cNiONG51_hMGIQB8aWEN1&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "OKKU",
+            "review_count": 1.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 5.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblhlxJWALReeuJVhlK8mCm_KN-v8-I3MkhmkC3HwDlGf6mrjr4sNEwLM9D3fD7AmTId8eUUnZFwzfrO8khfRyKMyju0prpvcc0fSu76534Dy9IUzg0aaXPXuKPLQNq7IHixwPVtZYHctKoCJ5gRCCMsoHGihED-wyy658YmXNbK5AQh&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "SushiArt - Century Corner",
+            "review_count": 1.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 5.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbn4BJ46271gN4lU8mezbGlNGWBaLeN83lUPk5cnI-F4phPeqvMOkSeTTwXS3hTLoezXntR_G4PikACW6Rn8Gha2dSepzC56REuiXVV_cmxO97cFlTf-Q65Tp3RPt2NYBdPLrZZ2lbbTzYj7Ry3-4Ia943u4RhNT37S9_RCoKYSm5Jzc&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Kitami Sushi & Noodles",
+            "review_count": 1.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 4.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmBD1J_wNyphv-MXQtKUk-ceOprdNBpE3WAuratTcO-s8mWSjx38DrHMsHcDBh-RYDaGsiP24XA4JhJ635gQVdaUSihADImHhKDIRbF00OwYC9F1YBl0KIDRXmXKn5j0UYJw3s_PHyTLnfDjmY6stYA0B8xTZem8JVUaaWK__qi28Wt&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Sushi Library The View Mall",
+            "review_count": 1.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 4.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblW0P8oYcYZ4Nex08UO9rOMe_vBOn3Eu6vEHn_zwmi2OyDW9SFcdrXRH59ZQdA-RpiwNjnuXtGQMEvhKWVpqGAizG4ujMMkZgoYGEWr7GfbPKTVlImAChREJF-wr4gE-JtKwI9gl7SONtIq6ocRZoAUGzM4mjwtFE7XbzKCkd4iSPsR&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Maki House | ماكي هاوس",
+            "review_count": 1.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 3.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbliR3BuuuBE7FSwq-aadYkaNsDS1XbW8_goQBSrAH34yW04nJpsGEJkooR3ToiYV2d5iYyem_TM3cbF3MXncs_7KHTR0NuJSQd3mr2SNwByuk18cQe47bZmRsIE_JIx42l0D2d2bt_DptD8NCUmcaWStU5lB6Q-n4_mqz0yCI8lhFxF&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "مطعم سحابي سوسورو",
+            "review_count": 1.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkv-Rh_RMg3xTwsViP8mfvlmHfLBl6qaO-slUT2bvzeTf9-XQnGDtpgImCO2ELYFD5TCiFE_S1vstFD3vLQ3j44mp2XpOuLBj6O5O73PQwIkLv8tKQyinoQVcnselYjSNSGVplXCP02SdaDQVxBjHdQKrQnNpy-Zo7g_YpdJjvrjotx&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Masami Sushi مسامي سوشي",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnzP04CFTKTef8k3RRDY7PEo2pXYka2HPL93cBDxd2bBKuLLKq2G8om9qYC7_CcaBL9sOgoMnxstWDv8Th49dRfPEp_-jX26W0CWfOEXQzKztm2L6BBOnFIEYny5ywAGijnKwZpBB1eD5cmVmIPEQMfBo_-1SM3U1RN3g3j1MG9HVNr&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Byö Restaurant",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblwHYlxQfwaw0fRenGwkpOV6g7PmaGRB-PFp9tU5FmK1ZcTdvR_9qo10S0vbwE_YjbxYJAWhWF3HUPzMNcjFdHJ1-9vU7nwCpjY0CeoXjz8IEEoGls04qRU0DnxeWfTC1PbExWT_geuYjaCnR-mzg0am_18ViGzBGNB6aDjWqqzSrSU&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "SUPERBUN",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmoB1nAVIEHUhOkdLao-yfZSE-sRHEyc7RAIAK_Yce_5eU6OP4Y0mDBVo6AwXovNF3w2ib3OM2SbUWR28QWB1VG7BSj-gtXLl593crhhpmhMabOEVPqjmuBg5RcePjiPft0MYPNngq_GzQNJQL37FHKX1PQbspsBdaJPaz9KFk2CUFD&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Takuza Gourmet Meats",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "",
+            "place_name": "ستين كوب",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkwGyEUnb6J8vtpVmw44t8Pzlyt1y4Ax2ntBTn1gd8XE7fconSzTFsoHjUlTbbW6kvZJRMyJwWo1mjvHD9L_dQry7tQM5LQtFwyO-DxO9zdU0BpFgnfdj_KGAdrUxncasGPlHF0cG03z8PvLk1KJuunoOfM261EIhTDYLzyjF1EXJmU&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Burgeration برجريشن",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbk7KLGzYOIUFOSx717KnX4VqZmDnW3K5Gr5L4XoMiNoUeqE2BkQ1krLSeYQBsLG_lxMD-TnUDMz_C5Jt13UmMg2BdJo3jY4ovB06AK8thClD5u8eCgOgPP_48ernbMxYBksPOLpO61yayy7b58p5EE67lG1clz4OuI9A-rvnXIHdyR9&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Nyoko Sushi",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblZ5WthmUEhADjya_kQhw_AFBIQdeWwkXK-V6X87z35hCAVtnhOvDM-vyTwkKMsjrJpor607qUvGWyX3eZa1AUCh2CKx6DcLNkYjiBTZQbPZpFmiGKgWwNiMZuEQbN7budeR_hXveQNKuvXKfUd3o9kzUqpNOMPxe_C8w4GikR_-1GA&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "سوشي دو (سحابي)",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbn40APMScOdQt0EBh6GKYkvpbtp_G7QU-q7Inma6-VJinM-9EkRzpR1ZJVYy9wIT8jgY3qCE7uu-iDfZkYf-ffVaKZNaOYX7uxWxCGWYhBzCULyrG7Jsu8ukFXGHwzxyQILCdrgN5wdpDDjlEcZB9-15UAL4ceNL79OYFPZP4p6Mjd2&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "MYAZU Riyadh",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblU0lVPp8VzAz2kEkPCG92HSkBpciq0ZTPVeOo2Y9tc1DSlEFcvvOoKmnNWdJ5ElDRqIoBxmtJvIdhMQJOudTSlrGQpPf5Iw-F8TJ85qisPUCfEc_SxpsE2uSAhxCv8AgJ3IphFJ69A1NMCFciMZ2FKoY6ca2OBuS1tA8RzaOsoWQcD&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Maki House | ماكي هاوس",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "",
+            "place_name": "Pom",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbndWYTptHg4jI5kDXfW9FGDgsUJc9czkH6iwyxEOgaRKaL5x5-rNDbDZIPC0VwgpqFGUsvIpupaio7WBAlC6GYSXeMLE5GWuzUni_OF-HSscrWTH_5r82onsO6RmmjB2RP0nRL06TSmc1-LfmMgNMCiObxFVkZij4J4aVKcbk7AM2VK&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "KITCHEN HUB",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkWTifLSiOjDFFzGkv1uoY6BmfuyjJw8eTCd8ho6pUna0SLRmbTSehoXorH2KzM58jLb7FTS4cAhl8U2xRdxAZ4XzozK3uJwyQ052Kxf-a3vNKHUXVVUaZL8ntzHs-YMP67Irnw4I2H5p_w51DBilpSq5f6yuZVe4As4GyX9CflsWx4&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "ME SO HUNGRY SUSHI ONE SQUARE مي سو هنجري سوشي ون سكوير الربيع",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnBe_grnkCo-rrF_y-NfqJI2NHvVsZsdpon1YeY98wVLfAhW6omb_pQIir0UiO1ua9iDDpKRByZfOiyyhT-1OJEgBLm9yax9v_anyY3hw0F05KmF_QL5llbfXR4psBOP_UJg-yhuJtX9xClVXvtVmLSBmI0vj5wCYOSf6lVzEJyGLpz&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Benihana",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbk2nKjWBTZTJ0Hk0IhE9EHrITEhCyLI0MX0QXRQo1Q0aktnU0kmdUrLP7TRsu7McpvFSeymDUow6NW5w3clcTMXmocuXjpgbYroh1aooAN9sqj63GmGzd8AUdWRbYq649qh2FnTZPpe130zoIqMjIAbJ1nR0T79b-Q6oi_1WzHeegmD&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "The Sushi House ذا سوشي هاوس",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblWST8ltq-ggjVaWN6y3FMMNAhwMKmx7u955W7QcEfuDbV-7vffEdlIX6OoDgq0BYOlkY2Jnu741Q3eY4vYcjUYG91lJFBkeW6n6hxhlgL-Z0HHaBW0YI-arxzXiuHwwKfKIqVNee_M0ORDPwBZK3TiPQASdECsEq_vVU_6cTCcky5N&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "shiro",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbn8HAweTeY3ZwBfVbK6TUdIV_dJRYuRHaSKGtwpJzhbMje3AD7ptI2UhmO6Flk9LGYE7mZf97JJG4ohFfHxcVk5yAhg8Uz17tWie0zigMJP6HADPrO4A6c-KZrblkeKXy7Wslydrl1zxwYMM0tiOMnUSN6QQGT4Z8139n0jZT2osic-&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Agus",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblFLNLTOKbMx6XOOcXexxXFAeo1tsAV_H3TxKkvLzIwarc_GV8R89z5lZ-RTqaPBpCzDNbuufQsL5IO3RprKjEe59ZcHq8W0to0guIDVsO5-uMQ8CZAkG9jKEdltSp8gizhRjkszd9hj4vuivuc5m9IOOvW3JAbQYTKoa8qfq65muue&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Sushi Library Riyadh Park",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmjG01GXD2qVhrslJQpVjONqAxMNfoQwoRRf6XxsGVSzvqtQYl60-E6H0O6deELEm5BCo1pbxmBqJir-iGKspkft0Nmh0D10kx6NsHXrB-HYAMQb8om_gKRuYxMur0DWLlW0brbDcV7ufnWkQkKbY4sgN6Ro1sp4Emf4pTcSM5w1VOU&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Samurai Japanese Cuisine",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnHJi64N53EJR3N5SvoMeVYHGEgsHOo_kcMDWEQnoSoYBqRuCv2Gv6E0GT9lo8Bv0jx3zMY4vcWlLYyg_4hgTT-Tbqh8R7DR8GgMj_IqdQeJkuYCe8ChErpS0qRGYZLj_P_OVG1DIjoRX7eNsVqZz_O1tkqsntSxLlZmZUnWfUyjgAO&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Shiro",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkTGcUNj8EOf_WGSCbu9m17xBVJzr8RU9rhOgBSr7zdFNdjl9vr6hTvRaptWDC6nSds4sSDMwWoYNrc5mK_OS_GJd59k2HpiclS54y6OOl5Mc0dJ0LmTWUu9dTpw2LFNkZw00UNEI1rCfDhbazK4yoLAKyYuZ9mAVTV0p-BBoOUWeve&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "SHIRO",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnd8uBKCG7oItxp73fwg7QjIW3ZIWhOgG1NO6oxZrvW4RqAc3tANIRw5rBVMrQgUPddT2TdfZtAqL65M9g7hBbrrQNRvh-w7euaWYvjo4SBNWO9opb3awKOi_bBpVzZUxYmNsWshVJRRQNsaRuGmUc0Jo7oQiXUWAsORHnD9P5aJYcJ&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "مسامي سوشي masami sushi",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "",
+            "place_name": "Sushisamba",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblipeC37YKw4ljaJKVbtXpJhYfXoVm2O2gqMrK-JXE7NYoQcFihm_qyUHfNXIUPRgzX-oAARdhDsZ3drNCmShDaTy841vyIATDjS6sXhUSh-2Uvx3F3nhDHOpz1WpiKIKX8oIS0hRcE5n-gLFUcBjTE60rQ2Aq0Nw_f9aLnq6-zCgJm&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Kitami Sushi & Noodles",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmj6Omu3Ak8BmdsXF3VDv3dzxDKH5V5sqnvR3sTvitL1Iftji7Wf_BPcFjgMh3AvAHx09RzfRQC_QP1DVpRjrHH1DKyDkFtf-u8t9DbYPigWfdhd212OLOR5xrPYt6B9jlpX5zkZYdr4ZP6HawxL45uniWStUXAXoccrv90bktHtkhE&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Shogun",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbn7a8Enl2hELw8TyOn_JgQSV5UXnnTliYWq40K8XqOxEOEh1qOy6ao6M0sMw5DuQDuAD6ChMsdOsMI6fDMTDP4qU-UA_watkP0gD5vnr6Oa2FJ-WmkW2hiZedgIJwwU2f7SLNUqwAyBTvuhfSyWz9uov7VPCuD5uEzG0pv0PVdifUcK&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Kitami Sushi & Noodles",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblerlaanPGoPjnDLARGdWyzhSiLQK3yhBjqQwrl9BtTrvUJRmacJAwbRpdoDIMuE6zGH84Fd6Ld6E4Nv7A6bWxN1Kh6Mcol8T66N9OWOs0yRZAVjgrQshVLzDFx7CsMTIPkg-rtttIHpkWkiof30Skj-qIQuWEHz72LBbGNIL8t4EJx&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Masami sushi",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkfxjM-gK7E1haAuF8qOTQ23NAGyzWbroPRjjuWG3HXw-jWPcsn2n0tX5DjEmvGOHy_8fY_3KBMYQcidKkwDHwnabxNwFxH0AU7kkgakQMnHc50FtKsGs7Bo6hurNu5h3YzWeqYCGZWKiil6IhzJ6xcmfO9RyYudDOUrdgRqwtqinJB&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Maki House | ماكي هاوس",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblOPyFXKifVKG5CwgIrI8vZIbX7nPImlIWTzfdvnYw3h3RJXQZFOheVuEUIw2ijPsbgmkR0qtdCA7qAQTRUYP8YnrdPL8EMQ-uRzX-7WlgeKjJ79aHwH_kZXmHuMYKAOE5fw_qNH-hqWOWjgtzcZ_kEj71WqVpUc7nfdcGsodej8VjZ&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "OPAQ Eatery",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmQ6db20ZU8PRANHIfmaHrLLEQfh_dz1247qx8i0CZzdLhrUVRdRFMgX6JIFhyyfuWU_yCczVGZKjGw1D3m6VjUCcU0DuNrjl3ErdGuCWi0WbIkaCDepGXMYNK25LFg1e9JljhG8bliUbX2p88eUvWwk4PcIXGXjBEs-Dze2UuyoGfO&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Finding Sushi",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbl6J-FWYPiQiXlkSG50eW8dkwvi-4Kq41lk3jKwIU8x0CZ281QId5r9mzlE4mjCHggqp5S-eZifTh1ubv8Mg3WXsafxeeSocUyqg-xp5qXhhk9LEMaez8gOAvx0TUhPhmFCXoeKAr7WsmwnREwB5LX5Ldoc2FDzhebcL3zzoKgfhl1j&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Haku",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkKzsW7DPAelu1WwhVwhh2hdkfRUaMSlKKzTPBoxKIUTvX3zfT_3lpuT8b4uyqV679XBgr4IYrCVAyA-Qum1t81VXoTAJWsRKDpc9PzcPwfA0hQt5lmKnjFTDoICf6IlLGnGZ1rjfbjsja3R4l3aTA3Pfb1nqIHa1q-iE6P9YHhBa2m&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "soma sushi bar",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmxSLom33hfE1gigqsK9KThfFuMwgZTqhf2FaRL69ywfDVSlypfslP41GveMlfo1uyjXO5e4pjMjzPba71-S41YalTTRc6yGNRkYSs9ehRSAic55-aN_V62UMdEuvjHYLA7HV36d5aOZKina3rkyT0r5rHVNFd835KYsGEnDlRjnIEu&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Wakame riyadh",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnpGzln0NIECIS4K--Po_u5BPfinGPzkqFuUbATc4BmYaocddwaImcZnj1zB5ALROw6rjnO_KnaDeyqmBZWeaKBn9flnnoAqc3OrVRW9mP-xsfkqHKQDVLWUMI2AaLxC_5lqH8ZdmPYkxap6twnEKOenhYaQJr_R4fjG91opi2AS3HT&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Sushi Art",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmqHkZe8pa4FvoqGz-D29O-9E1hFKJASQU9Y_h4FOTMDCJJLz_zUx_3v9IVqnEk6SXK8wv3QaQhWUqqDbWPFUDyLNmF3GAucmUhU17AKYrtpzLMqNk0dxHJy_ExaCoDSXOJbK4SOwJ9G1ojEtNOtp3j5uj4AXF-EnzJriUeMKlB926i&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Kintan",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbktX7-GAMCBOBrhpmVJ0tsd8MvoBbiTXLTseV3b9hLPY22AIvmiJm-NP64v_GFFrS6OVrF0oc9svx7aCw3mHXxl9bOmbuQAc6HaN6MoC-TSQlz2Z8Tbjg_68-30gdfYiscwSLF50KFtQqWcK5pWu5EXuqW115YV6ctDBGwpAWlnqtnv&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Okashi",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnN2ik2UJsyeY64cXERweZqBLjX1Lr7iwzKMgdisw6WMXyKKsjSvPh7lK4hWMLGj4fOadRA8dhW_uUfLo4i3xuXjxoIU-X2FFy0GP1BTq2Ol6SiBWcw2ZXeCvrLdom-pGr3q1VoJVTi0KUIZH5uBc0g_y4JbPHF-bGktPqyZiHTK39q&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "شاهي ديارنا",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkrUjx6nN9TOKQwSLaF5R3PVfbQaAVZvsaqxuRBQcmWP-JA4Gyy-8p56ppjvynd9Yk7pQw6Qpmlzz3i7IcDbzjuFDHs4VUaEnP-euu7GUECqUMtHgeZOgAVv-ZMVGTQBuUG8R4N-89wGeLcoQn6ZUmEHkIn8zGxEDN6E2YHPFNb2x1f&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Masami sushi مسامي سوشي",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmLl6gWcknJ-lkR0fvGB2cljRO43VuFZwTRt2XYmQ8Y_-8qdPg803PQeZgbXAPwl5gmFJX-hO47g2zqOG_p75MuHN1KWwEXuPWhzCxYlx8Cv5tE__t5N1smBiGhddAyRcj2DtPeWnH__MLTE3EOoTOuGFDDdbgaVj5Pwgo7mLEM7OhF&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "OISO",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnBqLuL_rMqJRwbCLyAQBZ8RAmJKZjwttXZ23EDKu0xrwfxjdHKod8TlmCXlGCMuiS3fcwNQBz07S_HKEQbipOmOuyJTK2NwrKKIGbU2IDUwz1OJ3GS8TKbo6rJzrb92kRC-pFXpRu109kqkZEY3Wndv_ovzsRa_GvaItQ5OBwnUePY&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Maki House | ماكي هاوس",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnWkV9mMGyWzDTiwLy4OqQ7HWzQ_do9y3smizKNXBoBzVJxByBptDA0iNH14Qbpno_93T2P-_6m7aShAXtZ6FWg6Ddi2HlymcMwY_273KBMwHDUqiVNNj_TRm65z9vFcmhGezb7dJWC6w9kHQ8ssmbZUcx06Eh08ZrC2xZUtMh_zhRP&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "SHIRO",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnH9XCq-JN7zbVKTC0lGgJbneAr4MXG5oQzSxdOt25nGgkZCqVgMV_Qz_lbXxmAnFLgfnkQZqe2olFJgO3bjDny9HBIu5zr5AzPiU84HRkQoJm2MJGRAsSWlaIsAlMFxzCL01TiXEh8csHiVCz-j0OA4uJi3SVK1aFnzLbIsKjgz0El&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Yugen Sushi Restaurant",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkmiseMPj-cNy9RM0kHU4n5hN3Rx5SEMS0DpeFCMaF2hcmezZvSvjYi-y0uQwjiDlRkGKMaK2ZWukyRkh1a0ubmU6TF09_FeNNcOug8_1V-vjUukpGgXseIHXJF--sFOmnNp9hC71iMOPMn_eQXcCXAYRwEnxD9iCS9UR8Yh9M_OnpH&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Oiso",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbm0pMsYr08VQq5aE19fL2Ut6S0Jxz2PXlM-hQyk9tJY7Q0b9KWljhvILkcGMaIjw-IWqbeLF3TWj1amgIsbmiD7A1jBTBZyxoBojZCB5ks_l_XLf15Z3sgry6Oya1UZ198-I-G8YAhgMBeabgTjme1uqe40IyclaibPSp8OPCifoNG9&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Ramen Restaurant KSA",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmEqJPBW-iKCunsbsMOcexoo1Vv6nwZY3uki7njBROujV-bbsFFrRtrdFeo62FUdA2TFKN0WtXp0Z_Qym3qRfVjL8_JrDwl-xw-ZsPqWR8aFN3xxRZXB1cuvNVYJ-9e8BDEn6JTGHrRUKI0eynPuBAju7TQkxaOmu6n2N8x7lJdVPlt&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Gold Sushi Club",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkIsryJJLJorR3SC4jmZsCRvG15dhp-roq-LMCP4a3GzLRmStkxrguULeijnfAU5Lsdho7FRcGkTiAbV_gT78aVJWHML0of5lr2PzP9MVrF3p0LBAI0_ec4Vs0dxuWrv-Bw1zmDFC1YMqEUszRnWtvB4RprNqC41kRSukrbAehhzlIJ&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "SHIRO",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnUsFdyXF_fdYwjVzySlkKpxJS3aoE0o0gIjutmvN8dLyANnsp5A81m4oxQywGaH3SGR29H4XpquL5X_TRI5iYNhOR8FuRmracUum29dCDCFVCRAE4AjHNmO5nUFwgAWG_qiSJp7aZc2qUNTxWh-_LTAO9oMWLko2eHNt8gAOnN6gUz&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "موساشي سوشي Musashi Sushi",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblV5l23wcsEROjjLCv0tMt1TkZ-lC8E3sQoScDTZNwG7K-dIRJwwxQVl2ztNxZmJ7SzgGrqq9m1cyVsCus5NWmhZvSRFSCyGg6nQY3ui1eTbnC9cHL18SK2xxzgcTjJ6SDUj6o-gCPsqCd6u3Cq3qU3cJvJROmJgf0JZyCgt73BlU9c&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Catch22",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblWbXIuyVurY0hS6ptoD6owCI6UAu6P96v8w45oEzCt0s_ZjdouVCwr1WCjzHiadWKoHXQBfTWyIfb9dZoM9GBia1GNn4w54MBdkUzO26ElPWggP3Y2gqjhaPkd4Z6GFThvm9UhemMsh7nMsRj7h0hNkdGYK6twCDoWqmu4xnhzLj4v&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "SWAP",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblQ9Li6h6jy_pXnbiIPMNAHQEbSIoLPIQi2k_EdnbwBIYwqXHBvmA6vD7yIqn9jCen7ZBZ2gffVys9JxlOqC6bQI-lkJEtH8o6iQceq3QgLSJ7KeyTyiBEAD9PiOjaDNc-FgioBBWIcnU3xZhMj-DxXtxOeNexVvyVifryFntp_1HJU&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "نودلز عبدالعزيز",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbn3Jf9Ao_vAdVCdGuKc1JoNYJKkmSiNrUvnd_v6_rH2BpltLjwRX1R2r4TQhiNbbI8d-ySb2EHolQdCzE314owksUmttYW7InhKq2MtNNWHcH1ShmI94yWlhbKqQ-AqHdv7jNQDjWBoZaw7-V0DaIbe8O4cYngoWht1g0zG71gPHqWZ&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Sushi Demure Restaurant",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkXhZPnh1cfRsnPtbRH0jQf6H4lbdJyD42mfU0__1zOI7J226j4uUo5_wHusUCf_rtGzmE2h6NsiURvLrRhBHLQs67uHHK0HPzUoJvSnu9wGhEzELxbSch8lLLISCX05smvq5Sbz5zmpyAoCLIERk4AOINyw13pEA2RQ7WNls228KeD&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Ki",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkS7Af53qpTFxgnva2zd_LEEbWFfJJtJvhbSORTEnodIEkI6MhmaJ40FVTBcZ4aOXVm0nxayTYVvQOYUYK58V59aaKzOJ78P6vSUOZ6XvbbW4IpV58EecFDeMhNCxkgDvyROpauViExc5ZAl13u_15F4zQ2nEOY9jbJQn6XKaPW6sdF&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Nozomi",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbllNG6Kzg3iI7oiW3yKKr0i_LW_nVuvG7r0hLELHInZIbehi-ntRnCdtdXEiypO_d2b12_nj39vI6ezWMCEimrgBGIjSvXU7ZgpuiTLYasDEWtxSR5sZua4iXo6gChGoEQa2zP4TjdxMrIsQ7SWlVReKXatDEhAI_xdURuccNhYslEn&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Kitami Sushi & Noodles",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbncJYKPQhmqMhmJyZoH1bVSSO7ze8XDZtm-wAZ9RnmFoncdfd_6lnpTgrq-ilEMEgANx2t-JPpIpzENbaNCK5EKgrI_AwO0jTG-Jn792z13RvINs9ud4UhxsL9lnwNKtOhmJlFexrVUKERfssUw-JQEk_asz4kqTi892YXRIW4j8kbX&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Masami sushi",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmvUtaJ44lWvtDEzqYWzQ2y_00WaqTfxaboMBAFQ2X16Nu2Rt9u4pWx_Te_7nZKIHn67nGvrX2m3mb0IVMRWm9EdCROmk5XafagVs8q_DMJHO4dKuNVpa4fq4kdsEfav9vUZZL2nB4_PE8SfhDlXFMfQRSSc1hXpGutpvuV47quk017&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Sushi Library",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkDEvTFZYX_1i-s0CrEVZaUDCedfo9I-W0sPPS_YSflY1nzKQLyh5vYs0kcdhiIWus6wYuYluTrhvtpVimsnqDh--2jryHjzPotKgXiHvKO_LqFJXQ9hPWTzOA2Hg-_A9hUmA8VZbkrgwJZdeO1je2rcWYSNl_6zbh9lUOwk8ArFoDP&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "SUSHISAMBA Riyadh",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkRAQtnuwhIBLTH6_EYVlHXQBQKkH1pYuOYo8AI1yaVJ33oGntOA6nI0wrWHLjcb8lR0l5buExbrEhERAtkjMbK5vTtn2iELXnZjq9aWHnlINkrpdL10K49eGxFMHZ4GA5wk8UB9hcvUHgUCo0uJxXygUXmtchftgesRfKFeD-wZJ0&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Sushi Library Park Avenue",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkfnpwCSJc0KYLniCTY7gnxLrcMUrGHyStr20X9ZkdbfwzylbPDEVN-A03OzSZTNzDadibzqjtFGrwSKiG6Yt5P54ELhzNVmwo9Lwb8GiRf2eljVp0_SPtA-OOaZj2eJnnVcjduMi3-PzvfK19T9nKzb7pKXmzvs4QTATROaPMFqNz3&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Tuta Sushi cloud restaurant",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbn2q7c-1uz4nYk9sqkrL1w6VN5eoCOJLMWPF3G80V-RHq6Sz2iNMkaHuYd1BrFlwejFrpSfSe4EjH914WcSmoGZzGbbAbVzpmnkfrvwdZoIXyFbqyi4e1RQxCNuiGAQfvX2t0SJbaNcBlWZCjpf2VVwGKPD15ReFLSemRVJIsAA1CSG&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Kitami Sushi & Noodles",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbki8hLbmvZRfjHRFOtO5DFf1wRKc2Y-juMXMxjI65zaAJJ2XXRu1h0I_YjjvbdxNQEAY_Kf6mWAil8hsatdmFNj0jQKtHND2FaX4TiZPP_qZbykBkYTvzaemAMeYfzIozWLeJWxosej2392mlgyZ9y-6Wiovq1wLkYf4lvoOxbp6fur&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "masami sushi",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkPpfYVSB4GAFE0nzECIZyEfqSsaYuma0Tc9C6m5aR1FSS90e8-Twxv7PwalRImjDem-a2yKme9XhIid04nA_qP3ki9on0XBbPq0PiAgMJCc7q4bHbZvoodEX5GRe10eGd80mCO_6AF6Orekwv5p68wRQy7XmCFwnqVAjWd6IHY94no&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "KAYZŌ",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbnIy0yFiwJ-Gi5cLAdPTVRsv18P3TiTjvbCc_goP6nXn1AEH3enAPOFL8GmlLmNLGTRgU_6MZ3AXsAZRsfbD3IF7IifJEd_HWY_jTeH4gBtUY6JUag_QRM3CzTji-lsrkuHw_7njH3KEIjwWzhpwu4-fExTy0G6y9EbALVSFEau5RRl&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Robata",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblvCq8Bol1PpJuVYoGzPiPzQoxVIz29uKH6KWypzXl_c1LyKDquBWrIEAJSPmkw9oesOzoPPijLPlYJ0tUSY1BXWyTducghSpEw37rVgeobF1dgGnkYe1ZnSQmkNnwcwJKWfzfFrV4ax65o56Ka5fKWywq6wlGJYPK6B2yojdAUbII&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "KATSU SANDO",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbm9N0FLyAHaPbUsE4r8LEDl_jCMo4qyP2DNoJrPsVcWZWzP4Nedn8CsRVcybSgE1mxnqKgt3TLgmWbTW0EwTyuIcYf7R4utIerfFke9rDV4qiPuRkRd1k3kSk0W5_K7POxYHXnXW-wPbjN5VLOiccdJYDiLR_xwSMwYto-SkIs4Om37&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Kitchen hub",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblGR1OYJlIZSMu1sqYdze0bEbrqjdIpYOpqV7-7PVs-e6Qt6BdC2kavM1btPKNF4LRxPxUZCSRi9QySCxtvs05qF5BrLAZtjcGO0cHQJq9H1EGn69CxeawcHXSeguzc2lZKBECtx3rb8nQQaJefDZulkHiTEnnNW5cZ_8vBHTbx9IE&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "OISO",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblvFsWMyzP0C3HE2o-0zGnhfWQ0zR-3K6U5GBxgW3DHgDOntQZ8E3Yb6dj2oQoKfEtHS2ar5IvR32kbyzRX3lvQLYlA0INJWjEOnbChqbF-EUYmcQz-Wn8it9cmyoiRQToMMqhqVw84SCOEYLYpQ0XjXO71jzYnYhVA2Jh4XY08PVon&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "SushiArt - سوشي ارت",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbki6eq86nfcTirwIeIWubFe7xzM8K7bmrZCKZtJoKfGYSJN3NT3ELercCmxpPU1sJbhdGg5Vg9VSA_fXTqTI8rPeJHwB3IGkEMD4BAFkIQczQf1PmVjzfzbPjjVUxUWTa5IBQEN9G3ET5TgqQ1qh1mi7wPIQl_i1uOeogNede1HvGxJ&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Finger Sushi",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmo4-L0uiIfhmSHbXnXlu8B1A7sozPfWMF-X22PEp8ztED3yrTUhfXW6s6iZDIAdtsZle2RDsP4x8Y21tcES8KjXBJf08Gh24OT-BzcuhABqzxNEWtsGe-HEZQa5Zngok3w9HxRk_mFzOJts4MYkVQJl3oDg4epW_E1ZRfEl9J1jBxJ&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Sushi Library",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmnjCdeqOcGnAm26uqWKJo0697oNB9Jf1hwd65fzmWLKNzL6Q8-9tpj9cC4CsZp829J6bpXIehL5OaIBCPommQcFkS2kOJJ8Rja61SDXsj55HVZ8FS01JoIRIOe_ltbd34uluwBJwR7vKB5lO6tOf9dlofRJ69hyFbxsQOiGfePVpMx&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "SushiArt - سوشي ارت - Exit 5",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmPmxtGrK8E9piZkrqlYMobM6g7Wl2eoTpljMU1RqCa82nr3mz7Z-fzvifn8KcNPaBt0RwwraoOkmiW2ev1YIlHOd2aQ1DAutGABmPESrZ-jg7VH3CkXKzbJBpznaTb8DH38lZqkFWBAB6NZsPIsYPFt8ZmebkPe9Rz2l6VYI8qTrDM&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Sumosan",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmLXQGRlAmoq9X_tkisnCUD5mb7bHi91pziz97INRfJvrDT_ejkzLxc9HrhZCFORPnS2Ba2wId0P9cUVnxV_fwIUGoKuddzory7SP7eEcNqS39JVsP-fOubUfowYB0TQHuhYG6eGgho-_cnfycbNFfjEd8z-bm5qx5eg_T9X5j_pwqf&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "مطعم فنجر سوشي",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbmAYH3ulI5ErHziybWUxre0-id4c8h6ALHaFqkCrUdZxIMPHINwtsOyBfN_DHckosWOStvEyeXDWgHC6zzMydh3ei-yRVdN998PBx_JqFKascwna5Oso7mNaJjM4G-YldxeeqWuVqV7FXchYpfD_dmnIrK7MQLm9mk1T8dnVbZkOq1a&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "KOKORO كوكورو",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdbkkCDDQ9uat1gNJShUtsxi2ystnnw7Kf9h0PNfzwOH54QgFbKYma9LOmg8M5l_6TzwN673a2PuQJCGCa4QeVmDKljiQr95lNveQs5hEQEaUVTGibkptEJkCaqowHf3flvEDrkrLfW4u0DjgMK6Z8gRkKWb1PGAttwGu0hNP1AZZkghj&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "KIMONO | One Square",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        },
+        {
+            "Rating": 0.0,
+            "category": "restaurant",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AVzFdblxHi4S28laF26GIdz7oLJNy9nMJsRRPRkRd06g5OSRxoufuEt8WvBV3VH9gr5AqGbpvbSprqAOomkOxvVuPqiZjS8GQZARfi6zsC3vR7QagFUJCT23-_4Qe6hSTR_dq7GJ8hRO7Vbs30U8LzH4Zw71SGUkcWUc4vWSRd5akuhkUufI&key=AIzaSyAx6eDEuqKkXedTk9GdpznubrILROuuVuY",
+            "place_name": "Shaki Sushi - شاكي سوشي",
+            "review_count": 0.0,
+            "subcategory": "sushi restaurant"
+        }
+    ]
+}
