@@ -1,45 +1,27 @@
 #!/bin/bash
 
-# Step 1: Install AnyDesk (if not installed)
-echo "✅ Checking if AnyDesk is installed..."
-if ! command -v anydesk &> /dev/null; then
-    echo "❌ AnyDesk is not installed. Installing..."
-    # For Ubuntu/Debian-based systems
-    sudo apt update
-    sudo apt install -y wget
-    wget -qO - https://download.anydesk.com/linux/anydesk-6.1.1-1_amd64.deb -O anydesk.deb
-    sudo dpkg -i anydesk.deb
-    sudo apt --fix-broken install -y
-else
-    echo "✅ AnyDesk is already installed."
-fi
+# Step 1: Update system and install required dependencies
+echo "Updating system and installing dependencies..."
+sudo apt update -y
+sudo apt install -y wget
 
-# Step 2: Create a script for AnyDesk to force X11
-echo "✅ Creating script for AnyDesk to use X11..."
-cat << 'EOF' | sudo tee /usr/local/bin/anydesk-x11
-#!/bin/bash
-export GDK_BACKEND=x11
-export QT_QPA_PLATFORM=xcb
-anydesk
-EOF
+# Step 2: Add AnyDesk repository and install AnyDesk
+echo "Adding AnyDesk repository..."
+wget -qO - https://keys.anydesk.com/repos/DEB-GPG-KEY | sudo tee /etc/apt/trusted.gpg.d/anydesk.asc
+sudo sh -c 'echo "deb http://deb.anydesk.com/ all main" > /etc/apt/sources.list.d/anydesk-stable.list'
+sudo apt update -y
 
-# Step 3: Make the script executable
-sudo chmod +x /usr/local/bin/anydesk-x11
+echo "Installing AnyDesk..."
+sudo apt install -y anydesk
 
-# Step 4: Optionally disable Wayland (for GNOME users)
-echo "✅ Checking if Wayland is enabled for GNOME..."
-if grep -q "WaylandEnable=true" /etc/gdm3/custom.conf 2>/dev/null; then
-    echo "🚫 Disabling Wayland in GDM (GNOME Display Manager)..."
-    sudo sed -i 's/#WaylandEnable=false/WaylandEnable=false/' /etc/gdm3/custom.conf
-    sudo systemctl restart gdm3 || echo "Please reboot your system for changes to take effect."
-fi
-
-# Step 5: Check current session type
+# Step 3: Check if Xorg or Wayland is being used
 SESSION_TYPE=$(echo $XDG_SESSION_TYPE)
 
 if [[ "$SESSION_TYPE" == "wayland" ]]; then
     echo "You are using Wayland. Switching to Xorg..."
-    # Switch to Xorg (assuming you are on the login screen)
+
+    # Force Xorg by modifying GDM3 config to disable Wayland
+    sudo sed -i 's/#WaylandEnable=false/WaylandEnable=false/' /etc/gdm3/custom.conf
     echo "Please log out and select 'Ubuntu on Xorg' on the login screen."
     echo "After logging in again, you can rerun this script to continue."
     exit 0
@@ -47,16 +29,34 @@ else
     echo "You are using Xorg. No need to switch."
 fi
 
-# Step 6: Modify AnyDesk configuration to force X11
-echo "✅ Modifying AnyDesk configuration for X11..."
+# Step 4: Force X11 in AnyDesk Configuration
+echo "Modifying AnyDesk configuration to use X11..."
 sudo sed -i 's/#X11DisplayServer=true/X11DisplayServer=true/' /etc/anydesk/anydesk.conf
+sudo sed -i 's/#X11DisplayServerTCP=false/X11DisplayServerTCP=false/' /etc/anydesk/anydesk.conf
 
-# Step 7: Restart AnyDesk service
-echo "✅ Restarting AnyDesk service..."
+# Step 5: Reinstall AnyDesk and restart the service
+echo "Reinstalling AnyDesk and restarting service..."
+sudo apt remove --purge anydesk
+sudo apt install -y anydesk
 sudo systemctl restart anydesk
 
-# Step 8: Reboot the system to apply changes
-echo "✅ Rebooting your system for changes to take effect..."
+# Step 6: Reinstall graphics drivers (NVIDIA or AMD)
+echo "Reinstalling graphics drivers..."
+if lspci | grep -i nvidia; then
+    echo "NVIDIA graphics detected. Reinstalling NVIDIA drivers..."
+    sudo apt install --reinstall -y nvidia-driver-460
+elif lspci | grep -i amd; then
+    echo "AMD graphics detected. Reinstalling AMD drivers..."
+    sudo apt install --reinstall -y xserver-xorg-video-amdgpu
+else
+    echo "No NVIDIA or AMD graphics detected. Skipping driver reinstallation."
+fi
+
+# Step 7: Reboot the system to apply all changes
+echo "Installation complete. Rebooting your system..."
 sudo reboot
 
-echo "🎯 After reboot, you can run AnyDesk with X11 using: anydesk-x11"
+# Additional notes for the user:
+echo "If the system was on Wayland, remember to log out and select 'Ubuntu on Xorg' on the login screen."
+echo "Check if you are using Xorg after logging in by running: echo \$XDG_SESSION_TYPE"
+echo "If it returns 'x11', you're using Xorg. If it returns 'wayland', make sure you've selected the Xorg session."
