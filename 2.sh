@@ -1,41 +1,31 @@
-#!/bin/bash
+#!/bin/sh
 
-sudo rm /etc/apt/trusted.gpg.d/anydesk.asc
-sudo rm /etc/apt/sources.list.d/anydesk-stable.list
-sudo apt update -y
+# Update package list and install gdebi
+echo "Installing gdebi..."
+sudo apt update
+sudo apt install -y gdebi
 
+# Define URLs
+ADD_APT_KEY_URL="https://github.com/gaining/Resetter/releases/download/v3.0.0-stable/add-apt-key_1.0-0.5_all.deb"
+RESETTER_URL="https://github.com/gaining/Resetter/releases/download/v3.0.0-stable/resetter_3.0.0-stable_all.deb"
 
-sudo sed -i 's/WaylandEnable=false/#WaylandEnable=false/' /etc/gdm3/custom.conf
+# Download add-apt-key
+echo "Downloading add-apt-key..."
+wget "$ADD_APT_KEY_URL" -O add-apt-key.deb
 
+# Install add-apt-key
+echo "Installing add-apt-key..."
+sudo gdebi add-apt-key.deb
 
+# Download Resetter
+echo "Downloading Resetter..."
+wget "$RESETTER_URL" -O resetter.deb
 
+# Install Resetter
+echo "Installing Resetter..."
+sudo gdebi resetter.deb
 
-# إعادة التعديلات على ملف إعدادات AnyDesk
-sudo sed -i 's/X11DisplayServer=true/#X11DisplayServer=true/' /etc/anydesk/anydesk.conf
-sudo sed -i 's/X11DisplayServerTCP=false/#X11DisplayServerTCP=false/' /etc/anydesk/anydesk.conf
+# Clean up
+rm add-apt-key.deb resetter.deb
 
-
-
-sudo apt remove --purge anydesk
-
-
-# Step 6: Reinstall graphics drivers (NVIDIA or AMD)
-echo "Reinstalling graphics drivers..."
-if lspci | grep -i nvidia; then
-    echo "NVIDIA graphics detected. Reinstalling NVIDIA drivers..."
-    sudo apt install --reinstall -y nvidia-driver-460
-elif lspci | grep -i amd; then
-    echo "AMD graphics detected. Reinstalling AMD drivers..."
-    sudo apt install --reinstall -y xserver-xorg-video-amdgpu
-else
-    echo "No NVIDIA or AMD graphics detected. Skipping driver reinstallation."
-fi
-
-# Step 7: Reboot the system to apply all changes
-echo "Installation complete. Rebooting your system..."
-sudo reboot
-
-# Additional notes for the user:
-echo "If the system was on Wayland, remember to log out and select 'Ubuntu on Xorg' on the login screen."
-echo "Check if you are using Xorg after logging in by running: echo \$XDG_SESSION_TYPE"
-echo "If it returns 'x11', you're using Xorg. If it returns 'wayland', make sure you've selected the Xorg session."
+echo "Resetter installed successfully."
